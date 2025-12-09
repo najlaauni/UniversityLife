@@ -43,13 +43,14 @@ Besides gaining technical knowledge through this session, I discovered that I am
 ## 📸 Lab Highlights
 Here are some photos from our hands-on session:  
 
-![1762870237859](https://github.com/user-attachments/assets/cbbaefe1-3d0f-4998-9c47-97e7708a3e17)
+![1762870237859](https://github.com/user-attachments/assets/8c4c7c09-c334-402e-a61f-28b3685092f8)
 <br>**PC components**  
 <br>
 
 
-![6172355341866175470](https://github.com/user-attachments/assets/4ae2d40e-e1e7-4a3d-b99a-fec5e7101f39)
+![5386b234-243c-42c9-b9c2-f048dcdce02d](https://github.com/user-attachments/assets/87849c6d-916f-4adb-ae45-06b055d55536)
 <br>**The PC after setup assembly!**  
+
 <br>
 
 
