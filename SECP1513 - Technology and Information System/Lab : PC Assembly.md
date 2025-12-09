@@ -49,7 +49,7 @@ Here are some photos from our hands-on session:
 
 
 ![5386b234-243c-42c9-b9c2-f048dcdce02d](https://github.com/user-attachments/assets/87849c6d-916f-4adb-ae45-06b055d55536)
-<br>**The PC after setup assembly!**  
+<br>**The PC after disassembly!**  
 
 <br>
 
