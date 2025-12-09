@@ -59,5 +59,6 @@ After the PPG industry talk, we received a task to create a A4 - sized poster ba
 ---
 
 ## ☁️ The Poster Of PPG Industry Talk
-<img width="1414" height="2000" alt="PPG INDUSTRY TALK 1" src="https://github.com/user-attachments/assets/411351e4-e3a8-474a-91f6-9b25825b0d76" />
+<img width="1414" height="2000" alt="PPG INDUSTRY TALK 1" src="https://github.com/user-attachments/assets/38d0961c-428e-4e31-be8e-a8268ee14846" />
+
 
