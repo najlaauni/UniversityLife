@@ -2,6 +2,7 @@
 
 👩‍🏫 Lecturer: Dr. Aryati binti Bakri<br>
 🏫 Section: 02<br>
+
 This course introduces the fundamental ideas of information systems and technology in organisations. It covers topics such as computer hardware, software, networking and system development.
 
 ## 📖 Topic Covered
