@@ -42,15 +42,15 @@ As for me, I think this programme is very perfect. It allows us, first-year stud
 ## 📸 Highlight
 Here are some photos during the programme:
 
-![1762623558607](https://github.com/user-attachments/assets/ddd1b787-0955-42a8-ae20-72135e230ffa)
+![1762623558607](https://github.com/user-attachments/assets/06d57c48-6d8d-4670-a1b5-b22b46b43401)
 <br>*Poster of Student Enhancement SECP (Data Engineering) Program 2025*
 
 <br>
 
-![1762623554773](https://github.com/user-attachments/assets/61853b0b-ba87-4170-adc3-a7e037e7a200)
+![1762623554773](https://github.com/user-attachments/assets/81334769-a775-4d9d-9652-4fb2eb105915)
 <br>*Group photo*  
 
 <br>
 
-![1762623556704](https://github.com/user-attachments/assets/b97ed603-6105-443b-8613-6312f35dbc68) 
+![1762623556704](https://github.com/user-attachments/assets/d3e8cbf8-2f32-4dcb-a34b-b5a70e8fb12a)
 <br>*All students SECPH from Year 1 until Year 3 with TIS Lecturers*
