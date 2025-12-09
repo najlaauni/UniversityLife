@@ -48,7 +48,6 @@ Besides gaining new knowledge through these tasks, I realised how much I enjoy p
 
 ## 🔧 Improvement Suggestions
 - Provide better signage or a digital map of the booths so students can plan their visit and not miss important sections.
-
 <br>
 
 ---
@@ -65,7 +64,8 @@ Here are some photos during the visit to UTMDigital Open Day:
 <br><br>
 
 <img width="2048" height="1149" alt="image" src="https://github.com/user-attachments/assets/ce8b8b30-4950-480a-9c71-0e5bab4d9c87" />
-<br> *Group photo at Dewan Seminar D07, Level 4, UTMDigital*   
+
+*Group photo at Dewan Seminar D07, Level 4, UTMDigital*   
 <br><br>
 
 ---
