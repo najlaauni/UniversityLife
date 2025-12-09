@@ -65,7 +65,7 @@ Here are some photos during the visit to UTMDigital Open Day:
 <br><br>
 
 <img width="2048" height="1149" alt="image" src="https://github.com/user-attachments/assets/ce8b8b30-4950-480a-9c71-0e5bab4d9c87" />
-*Group photo at Dewan Seminar D07, Level 4, UTMDigital*   
+<br>*Group photo at Dewan Seminar D07, Level 4, UTMDigital*   
 <br><br>
 
 ---
