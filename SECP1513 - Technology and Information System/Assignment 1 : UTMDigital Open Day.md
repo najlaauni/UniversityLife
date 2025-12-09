@@ -56,15 +56,15 @@ Besides gaining new knowledge through these tasks, I realised how much I enjoy p
 ## 📷 Photo Highlights
 Here are some photos during the visit to UTMDigital Open Day:  
 
-![TALK](https://github.com/user-attachments/assets/0ca00360-e748-4cea-8522-015dae8dca96)
+![1762962992931](https://github.com/user-attachments/assets/892fcc5a-df1d-4630-9c8f-bd921efd110a)
 *Presentation slide of Data Engineering*
 <br><br>
 
-![1762962978326](https://github.com/user-attachments/assets/6a587b6a-c4b1-4a15-b827-c8076fa067c0)
+![1762962978326](https://github.com/user-attachments/assets/f252ee73-21c7-4147-b7d2-6829ade0743a)
 *Group photo of interviewing UTMD staff*
 <br><br>
 
-![1762880794505](https://github.com/user-attachments/assets/d8ca00b8-b76d-4b9e-93f7-97ef4e264d00)
+<img width="2048" height="1149" alt="image" src="https://github.com/user-attachments/assets/ce8b8b30-4950-480a-9c71-0e5bab4d9c87" />
 *Group photo at Dewan Seminar D07, Level 4, UTMDigital*   
 <br><br>
 
