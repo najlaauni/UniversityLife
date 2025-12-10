@@ -1,4 +1,4 @@
-# SECP1513 Technology and Information System
+# SECP1513 - Technology and Information System
 
 👩‍🏫 Lecturer: Dr. Aryati binti Bakri<br>
 🏫 Section: 02<br>
