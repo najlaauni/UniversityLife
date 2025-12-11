@@ -42,24 +42,9 @@ After attending the summit, my interest in quantum technology grew much stronger
 ---
 
 ## 📷 Photos
-Here are some photos during the industry talk:<br>
+Here are some photos during the summit:<br>
+![22b6665f-e416-4024-8698-723262e8057b](https://github.com/user-attachments/assets/2b1c0ad1-d3c2-4eff-9448-22a56422a3b6) <br>
+![6c5f1c56-3e7c-4e44-9fc7-7e9c1050c336](https://github.com/user-attachments/assets/def187cf-cd45-4a65-9be0-d468336582cd) <br>
+![1281489f-0cc5-4316-9085-6f104750eb26](https://github.com/user-attachments/assets/d01b428d-6fef-4884-bfab-45f813dd150d) <br>
+![a067b2e6-b63e-4994-a75d-1c9397b3818b](https://github.com/user-attachments/assets/47e4535d-6f45-43cb-9a72-06f618f596fc) <br>
 
-![6bedc781-595e-40a9-98c3-281e78ee5ba5](https://github.com/user-attachments/assets/ed6c4c1f-a6ad-4e02-8263-54fb240a9e40) <br>
-*Poster of PPG Industry Talk* 
-<br>
-
-![9a9abcea-5316-4897-91ee-cc8123299e9a](https://github.com/user-attachments/assets/a2e602df-d16b-435a-b150-3dc9ec43e97b)<br>
-*Group photo of future data engineers*
-
-
----
-
-## 📎  Task After the Talk
-After the PPG industry talk, we received a task to create a A4 - sized poster based on the talk content.  <br>
-[Assignment 1 Poster PPG.docx](https://github.com/user-attachments/files/23667927/Assignment.1.Poster.PPG.docx)
-
-
----
-
-## ☁️ The Poster Of PPG Industry Talk
-<img width="1414" height="2000" alt="PPG INDUSTRY TALK 1" src="https://github.com/user-attachments/assets/38d0961c-428e-4e31-be8e-a8268ee14846" />
