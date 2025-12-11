@@ -43,8 +43,12 @@ After attending the summit, my interest in quantum technology grew much stronger
 
 ## 📷 Photos
 Here are some photos during the summit:<br>
+
 ![22b6665f-e416-4024-8698-723262e8057b](https://github.com/user-attachments/assets/2b1c0ad1-d3c2-4eff-9448-22a56422a3b6) <br>
+
 ![6c5f1c56-3e7c-4e44-9fc7-7e9c1050c336](https://github.com/user-attachments/assets/def187cf-cd45-4a65-9be0-d468336582cd) <br>
+
 ![1281489f-0cc5-4316-9085-6f104750eb26](https://github.com/user-attachments/assets/d01b428d-6fef-4884-bfab-45f813dd150d) <br>
+
 ![a067b2e6-b63e-4994-a75d-1c9397b3818b](https://github.com/user-attachments/assets/47e4535d-6f45-43cb-9a72-06f618f596fc) <br>
 
