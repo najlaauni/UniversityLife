@@ -2,7 +2,7 @@
 
 **Date:** 11 December 2025  
 **Time:** 2:00pm - 5:00pm  
-**Venue:** Dewan Sultan Iskandar (DSI), UTM johor Bahru
+**Venue:** Dewan Sultan Iskandar (DSI), UTM Johor Bahru
 
 
 ---
