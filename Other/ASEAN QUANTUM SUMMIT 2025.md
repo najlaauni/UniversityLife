@@ -1,40 +1,43 @@
-# 🎤 PPG Industry Talk 
+# 🎤 ASEAN Quantum Summit 2025
 
-**Date:** 20 November 2025  
-**Time:** 2:30pm - 3:35pm  
-**Venue:** Hyflex Classroom, N28A  
+**Date:** 11 December 2025  
+**Time:** 2:00pm - 5:00pm  
+**Venue:** Dewan Sultan Iskandar (DSI), UTM johor Bahru
 
 
 ---
 
 ## 📌 Summary About the Talk
 
-This industry talk was conducted by PPG, a global leader dedicated to safeguarding and beautifying the world. PPG’s global operations are supported by its Digital IT teams at the MY Technology Centre. The session highlighted three key pillars of PPG’s digital foundation:
-- SAP Centre of Excellence (CoE)<br>
-  Standardises global business processes through the deployment of the S/4HANA Enterprise Resource Planning system.<br>
-- IT Infrastructure & Vendor Management<br>
-  Secures and scales the critical network and computing environment with a focus on Cloud Architecture and WAN/LAN connectivity.<br>
-- Data Analytics Centre of Excellence (CoE)<br>
-  Uses cutting-edge SQL, Python, and Data Visualisation techniques to transform raw data into strategic business intelligence, are the three main pillars of this digital foundation.<br>
+The ASEAN Quantum Summit 2025 is aimed to be the primary major gathering dealing with quantum science and technology in Southeast Asia region as it will be the first conference of this type. The summit was a significant move to prepare the area for the quantum era as it gathered diverse attendees such as government representatives, scientists, industry partners, and more than 2,600 students. The summit takes place during the International Year of Quantum Science and Technology 2025 and it is consistent with the ASEAN Plan of Action on Science, Technology and Innovation (APASTI).
 
-These roles are crucial for maintaining operational excellence and bolstering PPG's worldwide reach. 
+The summit brought to light some cornerstones of ASEAN's quantum growth:<br>
+- Quantum Research collaborations<br>
+There were new partnerships consisting of universities, research institutions, and commercial entities that comprised the signing of agreements intended for the areas of quantum computing, communication, and biology.<br>
+- Quantum Communication Infrastructure<br>
+The secure quantum communication links and the cross-border communication under the Johor–Singapore Special Economic Zone initiative were among the technologies presented by UTM.<br>
+- Education and Talent Development<br>
+The participation of more than 2,600 students is a sign of ASEAN's resolve in enhancing quantum literacy and nurturing a competent future workforce.<br>
+
+Through these measures, the convolution of efforts has implied a big step towards the positioning of ASEAN as an emerging world player in the quantum innovation arena.
+
 
 ---
 
 ## 📝 Reflection
-Attending the PPG industry presentation as a first-year student was genuinely eye-opening for me. It helped me clearly understand the important role PPG plays as one of the few companies in the world that supply paints and coatings for many well-known products from everyday devices and screens to the drink cans we use daily. Not only that, the talk also delivered a critical message on professional development that truly resonated with me: that said career advantage lies not just in academic excellence (CGPA), but equally in demonstrating practical application through project experience, technical skills, and essential soft skills, reinforce my need to build real-world experience immediately.
 
-During the presentation on Global Infrastructure, I learned how cloud architecture, platform engineering, LAN/WAN, servers, security, and databases form the backbone of PPG’s operations. Meanwhile, the SAP session highlighted the importance that enterprise resource planning plays in controlling processes of big scale, supply chains, and communication among worldwide teams. Furthermore, the Data Analytics segment confirmed that the field requires not only mastery of diverse technical skills like programming, ELT, data visualization, and database design  but also the most important soft skills of strong logical thinking and problem-solving. These three sections made me appreciate how broad and interconnected technology roles really are.
+Attending the ASEAN Quantum Summit 2025 as a first-year student was truly eye-opening for me. It gave me a clear understanding of how important quantum technology will be for the future of ASEAN, especially in areas like cybersecurity, communication, and advanced computing. I was amazed to see that all ASEAN Member States, together with international partners, are now investing seriously in building a shared quantum ecosystem. The summit also highlighted an important message for my own development: succeeding in the technology field requires more than just academic achievement. It also demands curiosity, continuous learning, hands-on experience, and the willingness to explore new, emerging fields like quantum science.
 
-After the industry talk, my interest in the PPG industry grew even stronger because the company has a solid technology ecosystem, a mature workflow, and well-defined skill requirements. I believe this field will continue to grow, and joining PPG would give me a valuable pathway for my future career. My motivation is now to master these technical layers to ensure I can deliver meaningful and high-impact business value on a global scale. Overall, I am grateful to the PPG staff and our lecturer, Dr. Aryati bt Bakri, for giving us the opportunity to understand more about the PPG industry. The industry talk really inspired me to keep improving myself and hope that one day I will have the opportunity to join PPG to gain hands-on experience and contribute my skills to the team!
+Throughout this sessions, I learned how quantum communication, quantum computing, and quantum sensing are becoming foundational technologies for the next generation of digital infrastructure. The demonstrations of quantum-secure networks helped me understand how critical security and data protection will be in the future. Meanwhile, the research collaborations signed between universities and industry partners showed me that quantum development requires strong teamwork across countries, disciplines, and expertise. I also realised that quantum science is deeply connected to mathematics, physics, and data engineering fields I am already interested in, which made the summit even more meaningful to me.
 
+After attending the summit, my interest in quantum technology grew much stronger because it is a field with tremendous potential and long-term impact. I believe this area will continue to expand rapidly in ASEAN, and being involved early could open many exciting opportunities for research, postgraduate studies, and future careers. The summit inspired me to strengthen my mathematical and technical foundation so that I can one day contribute to the development of quantum technologies in the region. Overall, I am grateful to UTM and all the organisers for giving students like me the chance to be part of such a significant event. This experience truly motivated me to keep improving myself and to explore how I can play a meaningful role in ASEAN’s quantum future!
 
 ---
 
 ## 🔧 Suggestions for Improving SECP Programme
-- Provide real case studies to show how the company applies data analytics, SAP, and IT infrastructure in solving actual business problems. <br>
-- Allocate more time for Q&A so students can clarify doubts and learn directly from industry professionals. <br>
-- Provide follow-up resources such as slides so students can continue learning after the session.
+- Include hands-on quantum demos or beginner-friendly workshops so students can better understand how quantum computing and communication work in practice. <br>
+- Provide clear career roadmaps showing the skills, courses, and pathways needed to enter the quantum technology field in ASEAN. <br>
+- Share follow-up materials such as slides, recorded talks, or beginner guides to help students continue learning after the summit. <br>
 
 ---
 
