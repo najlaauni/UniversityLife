@@ -23,6 +23,10 @@ The talks and forums were among the most memorable parts of FOI. Listening to ex
 What made FOI special was not just the event itself, but the entire experience. Traveling from UTM to Putrajaya early in the morning with my coursemates felt like an adventure. Being in a new environment, meeting students from various universities, and reconnecting with friends made the event more meaningful. Overall, FOI 2025 reminded me that learning is not limited to lectures—it also comes from exploring new places, interacting with people, and being open to new ideas. As a Data Engineering student, this experience strengthened my motivation to use technology creatively and contribute to innovation that can make a real impact.<br>
 
 ---
+## 🔧 Suggestions for Improving SECP Programme
+- Develop a Gamified Digital Map App for session guidance, live capacity updates, and personalized scheduling within the large PICC venue. <br>
+
+---
 ## 📸 Highlight
 Here are some photos during the programme:
 
