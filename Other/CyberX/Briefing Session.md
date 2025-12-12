@@ -1,37 +1,28 @@
 # 🛡️ CyberX Briefing Session 
 
-📅 **Date:** 15 November 2025  
-🕘**Time:** 9am - 12pm  
-📍 **Location:** BK1, N28
+**Date:** 15 November 2025  
+**Time:** 9am - 12pm  
+**Location:** BK1, N28
 
 
 ---
 
-## 📖 Key Topics Covered
+## 📖 Summary About The Programme
 
-### 🔹 1. Intro to CTF  
-- What CTF competitions are  
-- Types of categories  
-- Beginner mindset & strategies  
-- How flags are captured
+In Briefing Session of CyberX Club, this club has introduced The Capture The Flag (CTF) Workshop that serves as an important introductory event designed to expose students to the fundamentals of cybersecurity through practical, challenge-based learning. As one of the key entry points into the cybersecurity field, CTF competitions help participants develop technical skills, analytical thinking, and problem-solving abilities in a hands-on environment. The workshop brings together students with varying backgrounds to learn how real-world cyberattacks work and how to defend against them, making it a meaningful first step for beginners.
 
----
+The workshop highlighted several core pillars of foundational cybersecurity learning:<br>
 
-### 🔹 2. Basic Web Exploitation  
-- How web applications function  
-- Common vulnerabilities such as:  
-  - SQL Injection  
-  - XSS  
-  - Directory traversal  
-- Early exposure to secure coding practices  
+Introduction to CTF Competitions<br>
+Participants gained an understanding of what CTF competitions are, the different categories involved, how flags are captured, and the fundamental strategies beginners should adopt when approaching challenges.<br>
 
----
+Basic Web Exploitation<br>
+Students were introduced to how web applications function and learned about common vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), and directory traversal. This session also emphasised early secure coding practices to build awareness of common security flaws.<br>
 
-### 🔹 3. Basic Reverse Engineering  
-- Introduction to binary/program analysis  
-- Understanding executable behavior  
-- Overview of tools used in reverse engineering  
-- Recognising patterns rather than relying on source code  
+Basic Reverse Engineering<br>
+The workshop covered the essentials of binary and program analysis, helping participants understand how executables behave. It also provided an overview of commonly used tools and taught students to recognise behavioural patterns instead of relying solely on source code.<br>
+
+Collectively, these sessions equipped students with foundational skills and exposure to cybersecurity concepts, representing an essential step toward building future talents in ethical hacking, digital defence, and cyber resilience
 
 ---
 
