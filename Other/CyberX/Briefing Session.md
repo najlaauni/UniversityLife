@@ -32,6 +32,14 @@ After attending this programme, my interest in cybersecurity has grown much stro
 
 ---
 
+## 🔧 Suggestions for Improving the Programme
+- Share follow-up materials such as slides, recommended tools, and beginner CTF platforms so students can continue practicing independently. <br>
+- Allocate extra time for Q&A to allow students to clarify technical doubts and learn directly from experienced mentors. <br>
+- Provide more hands-on mini challenges during the session so beginners can immediately apply what they learn. <br>
+- Create opportunities for student networking or small discussion groups to encourage collaboration and peer learning. <br>
+
+---
+
 ## 📸 Highlights
 Here are some photos during the programme:<br>
 
