@@ -1,7 +1,7 @@
 # 🛡️ CyberX Briefing Session 
 
 **Date:** 15 November 2025  
-**Time:** 9am - 12pm  
+**Time:** 9:00am - 12:00pm  
 **Location:** BK1, N28
 
 
@@ -33,7 +33,12 @@ After attending this programme, my interest in cybersecurity has grown much stro
 ---
 
 ## 📸 Highlights
-![7466e046-d51c-4f6e-9145-46a1132fd9fc](https://github.com/user-attachments/assets/3c8e0104-9f49-426e-8ced-0907552fc846)  
+Here are some photos during the programme:<br>
 
-![8894c6c2-2eed-4668-b1d6-01c59022493a](https://github.com/user-attachments/assets/4a77fd3c-4b75-44dd-ab17-39636c7d69bc)  
-<br>
+![a643909c-21d6-4088-a920-b21f9e9c9e35](https://github.com/user-attachments/assets/0dc68922-9b54-4d80-aee0-461866bf6d54)<br>
+
+![80ba90ea-3abb-4c4e-8e24-345fc5ffe7e1](https://github.com/user-attachments/assets/42bff075-840d-4a11-bbaa-ca35cf4c0a11)<br>
+
+![a75d7cd7-58aa-4cbb-8ae4-f2d1a82f90bf](https://github.com/user-attachments/assets/4cc9ea0a-4650-46f9-a6cd-4e51be1af93b)<br>
+
+![e7c02ae2-fd62-49b2-9b26-240456a145fd](https://github.com/user-attachments/assets/49341694-60da-45d3-928d-e32bdaf408c7)<br>
