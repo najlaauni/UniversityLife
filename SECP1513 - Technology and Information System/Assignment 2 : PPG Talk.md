@@ -31,7 +31,7 @@ After the industry talk, my interest in the PPG industry grew even stronger beca
 
 ---
 
-## 🔧 Suggestions for Improving SECP Programme
+## 🔧 Suggestions for Improving the Talk
 - Provide real case studies to show how the company applies data analytics, SAP, and IT infrastructure in solving actual business problems. <br>
 - Allocate more time for Q&A so students can clarify doubts and learn directly from industry professionals. <br>
 - Provide follow-up resources such as slides so students can continue learning after the session.
