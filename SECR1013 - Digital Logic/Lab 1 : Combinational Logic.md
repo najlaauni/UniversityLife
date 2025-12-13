@@ -101,11 +101,11 @@ The objectives of this lab session are to introduce the student to:
 
 ## 📝 Reflection
 
-This lab was my first hands-on experience with digital logic and it was fun and interesting! It helped me understand how theoretical logic gates behave in real hardware. Before this, I felt logic gates were abstract because everything was done on paper. In my opinion, it feels more interactive by using breadboards, switches and LEDs.
+As a first-year student, the Digital Logic Lab session was a fun and eye-opening experience for me. It was my first hands-on exposure to digital logic using real hardware such as breadboards, switches, and LEDs. Before this lab, logic gates felt very abstract because everything was learned on paper. Being able to physically build the circuits helped me clearly understand how theoretical logic gates behave in real hardware.
 
-One of the challenges I faced was to ensure the wires were connect correctly and to make sure the circuit was clean and organized to avoid mistakes and errors. Besides that, I also learned the importance of checking the IC orientation and verifying logic outputs using the mode switch and LEDs.
+During the lab session, I learned how to properly connect wires on the breadboard and ensure the circuit was neat and organised to avoid errors. I also realised the importance of checking the IC orientation carefully and verifying logic outputs using the mode switch and LEDs. These steps required patience and attention to detail, but they helped me better understand how small mistakes can affect the entire circuit.
 
-All in all, this lab helped me connect theory with physical implementation. Now, I feel more confident to handle logic gate circuits and interpret the truth tables from real measurements instead of only theoretical assumptions.
+Besides gaining technical knowledge, this lab helped me connect theory with physical implementation, making the learning process more interactive and meaningful. I now feel more confident in handling logic gate circuits and interpreting truth tables based on real measurements rather than purely theoretical assumptions. Overall, I am grateful for this hands-on experience as it strengthened my understanding of digital logic and motivated me to keep improving my practical skills in the field of electronics.
 
 ---
 
