@@ -114,12 +114,26 @@ Click [here](https://github.com/user-attachments/files/24141028/Lab.1.-.Handout.
 
 ---
 
-## 📷 Photos
-![93e57857-2962-463f-87b8-5b67db19054f](https://github.com/user-attachments/assets/3884e9e6-72ec-44f6-861d-008c498aa602)  
-*Breadboard*  
+## 📸 Lab Highlights
+Here are some photos from our hands-on session:
 
-![09731db4-95ec-4895-a765-2ac51d7d6e3b](https://github.com/user-attachments/assets/30f55507-169c-47ae-9e11-c3021c5f64eb)
+![dfb93e0b-2612-4d96-b7e4-664ee53dc0d6](https://github.com/user-attachments/assets/32d9a39a-ee35-4302-9f34-ef1f9b41f5dd) <br>
+*Breadboard* 
+
+![2db3e218-fa5a-47e7-9ee2-0c66238cb0c4](https://github.com/user-attachments/assets/21afd3b2-f93a-4154-91c4-7350875cf8de) <br>
+*7408 (AND), 7404 (NOT), and 7432 (OR)* 
+
+![6f65c326-df75-4f71-80a1-a6ff47d7636f](https://github.com/user-attachments/assets/49a45409-a11a-410c-adad-2a74fadb9c8a) <br>
 *PART 1 AND Gate Circuit*  
 
-![e84ed98c-4f13-452d-b807-d9dce675744e](https://github.com/user-attachments/assets/d878ce6a-0448-4231-83ab-768de88c6c3f)
+![eef2b021-ba62-45ce-9db4-1575ccb6387d](https://github.com/user-attachments/assets/14b3f9e0-4e89-461b-bcdb-6d8d6b883a49) <br>
+*PART 2 NAND Gate Circuit* 
+
+![0ee857e7-c2e5-42d6-a977-584608026449](https://github.com/user-attachments/assets/78e6f6d2-667e-4214-a250-c5d853b1bb8b) <br>
 *PART 3 Combined Logic Circuit*  
+
+![b150dc09-9eb0-4071-aac2-7186e97a796f](https://github.com/user-attachments/assets/20f10d41-c6c3-4b5d-9b8a-a51d666cc68b) <br>
+
+![e51142df-3dda-4c4b-8bf3-98744c7ec233](https://github.com/user-attachments/assets/c8005a76-8313-4006-8edb-1265af7a99ab) <br>
+
+![5004d3ad-8c4f-45e7-a959-2802c8441fb6](https://github.com/user-attachments/assets/bb71ecae-de78-4927-a95a-7f98aed1eda8) <br>
