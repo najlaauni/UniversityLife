@@ -60,14 +60,14 @@ The objectives of this lab session are to introduce the student to:
 ---
 
 ## 🧪 Laboratory Work
-- Part 1 — AND Gate Circuit
+- Part 1 — AND Gate Circuit<br>
   The combinational logic circuit was built using the 7408 IC and verified by testing all possible input combinations with switches.
 
-- Part 2 — NAND Gate Circuit
+- Part 2 — NAND Gate Circuit<br>
   The circuit was built by connecting the 7408 IC and 7404 IC and was verified by comparing its resulting truth table, which represents an NAND logic function.
 
-- Part 3 — Combined Logic Circuit
-  The constructed circuit, which used 7408 IC, 7404 IC, and 7432 IC to implement a multi-gate logic function, was simplified through Boolean algebra or visual methods, demonstrating that the complex circuit behaved identically to a much simpler single-gate equivalent .
+- Part 3 — Combined Logic Circuit<br>
+  The constructed circuit, which used 7408 IC, 7404 IC, and 7432 IC to implement a multi-gate logic function, was simplified through Boolean algebra or visual methods, demonstrating that the complex circuit behaved identically to a much simpler single-gate equivalent.
 
 ---
 
@@ -110,7 +110,7 @@ Besides gaining technical knowledge, this lab helped me connect theory with phys
 ---
 
 ## 📎 File 
-Click [here](https://github.com/XuanYee06/MyUniversityJourney/blob/7c148011161824db53a9c06d7ca113a799648075/Digital%20Logic/Lab%201%20-%20Handout.pdf) to view Lab 1 Handout  
+Click [here](https://github.com/user-attachments/files/24141028/Lab.1.-.Handout.pdf) to view Lab 1 Handout  
 
 ---
 
