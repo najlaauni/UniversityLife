@@ -109,6 +109,11 @@ Besides gaining technical knowledge, this lab helped me connect theory with phys
 
 ---
 
+## 🔧 Improvement Suggestions
+- Provide a short post-lab discussion to review common mistakes and reinforce key concepts learned during the session.<br>
+
+---
+
 ## 📎 File 
 Click [here](https://github.com/user-attachments/files/24141028/Lab.1.-.Handout.pdf) to view Lab 1 Handout  
 
