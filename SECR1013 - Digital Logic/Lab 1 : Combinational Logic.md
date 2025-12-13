@@ -1,34 +1,50 @@
 # 🔧 Lab 1 — Combinational Logic
-📆**Date:** 17 November 2025  
-🕑**Time:** 2pm - 4pm  
-📍**Location:** N28 - 328 01/02  
+**Date:** 18 November 2025  
+**Time:** 11:00am - 1:00pm  
+**Location:** Digital Logic Lab (room no 328-02, N28)
+   
+
+---
 
 ## 📌 Overview
-This lab introduces the basics of combinational logic circuits. It focusing on hands-on wiring, breadboarding and verifying logic gate behaviors through real hardware testing. The purpose of this lab was to build simple logic circuits and test them using switches and LEDs to verify their truth tables.  
+The lab session presented the fundamental principles of combinational logic circuits. Besides, it was mainly about the practical aspect of working with wiring, breadboarding, and using real hardware testing to verify the behaviors of the logic gates. The main objective of this laboratory was to construct basic logic circuits and then check their behavior using switches and LEDs in order to confirm their truth tables.
 
 We used several IC logic gates such as:
-
-- 7408 — AND Gate
-- 7404 — NOT Gate (Inverter)
-- 7432 — OR Gate
+- 7408 — AND Gate<br>
+- 7404 — NOT Gate (Inverter)<br>
+- 7432 — OR Gate<br>
 
 ---
 
 ## 🎯 Objectives
-- Learn proper breadboard wiring techniques  
-- Understand how to use input switches and output LEDs  
-- Test and verify the behavior of basic logic gates  
-- Build circuits and compare the real output with theoretical truth tables  
+The objectives of this lab session are to introduce the student to:
+- basic bread boarding and wiring techniques.
+- the use of input switches and output LEDs in generating truth tables for a combinational logic circuit.
+- verify the characteristic of the basic gates.
 
 ---
 
-## 🧰 Equipment Used
+## 🧰 Materials
 | Item | Description |
 |------|------------|
 | Breadboard | For wiring the circuits |
-| IC Chips | 7408 (AND), 7404 (NOT), 7432 (OR) |
+| IC Chips | Use 7408 (AND), 7404 (NOT), and 7432 (OR) |
 | ETS-5000 Digital Training Kit | Provides power, input switches, and LEDs |
-| Jumper Wires | 22-gauge wires with color coding |
+
+---
+
+## ✨ Breadboarding and Wiring Practices
+
+| Topic | Key Practice |
+|------|---------------|
+| Wire Gauge | Use only 22 gauge wire to prevent damaging the breadboard |
+| Wire Color | Use an organized color scheme (e.g., RED for $V_{CC}$, BLACK for Ground, BLUE for Inputs, YELLOW for intermediate signals). |
+| Wire Length | Use wires of appropriate length so they lie flat on the breadboard |
+| Wire Placement | Avoid running wires over ICs to allow for easy removal | 
+| IC Orientation | Arrange all ICs in the same direction. Connect $V_{CC}$ to $5V$ strip and GND to ground strip first. Reversing an IC ($V_{CC}$ and GND) may destroy it. |
+| IC Insertion | New IC pins must be bent back vertically before insertion. |
+| IC Removal | Use an extraction tool to prevent bending pins. |
+| IC Testing | Always check ICs using the chip tester before wiring the circuit. |
 
 ---
 
