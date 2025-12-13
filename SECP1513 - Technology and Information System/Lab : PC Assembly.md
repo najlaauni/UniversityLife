@@ -1,7 +1,7 @@
 # 🧪 Lab 1 — PC Assembly and Disassembly
 
 **Date:** 30 October 2025  
-**Time:** 4pm - 5pm
+**Time:** 4:00pm - 5:00pm
 
 ---
 
