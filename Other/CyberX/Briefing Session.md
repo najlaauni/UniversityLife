@@ -50,3 +50,5 @@ Here are some photos during the programme:<br>
 ![a75d7cd7-58aa-4cbb-8ae4-f2d1a82f90bf](https://github.com/user-attachments/assets/4cc9ea0a-4650-46f9-a6cd-4e51be1af93b)<br>
 
 ![e7c02ae2-fd62-49b2-9b26-240456a145fd](https://github.com/user-attachments/assets/49341694-60da-45d3-928d-e32bdaf408c7)<br>
+
+![63a8f2f0-d837-4957-a875-383a44104410](https://github.com/user-attachments/assets/1b171a7d-9364-48ad-9858-29377f885f49)<br>
