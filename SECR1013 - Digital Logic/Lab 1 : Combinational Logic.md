@@ -48,35 +48,64 @@ The objectives of this lab session are to introduce the student to:
 
 ---
 
+## ✨ Circuit Monitoring and Input
+
+| Component | Function / Indication |
+|------|---------------|
+| Mode Switch | Ensure it is set to TTL (Transistor-Transistor Logic), not CMOS |
+| LED Monitor (Top Right) | GREEN = Logic LOW (0); RED = Logic HIGH (1). If unlit, check the circuit and switch off power |
+| Logic Probe (Bottom Right) | H = Logic HIGH (1); L = Logic LOW (0); P = Pulse (changing signal). |
+| Switches (Bottom Row) | 8 toggle switches provide the circuit input: HIGH (1) and LOW (0). |
+
+---
+
 ## 🧪 Laboratory Work
+- Part 1 — AND Gate Circuit
+  The combinational logic circuit was built using the 7408 IC and verified by testing all possible input combinations with switches.
 
-### **🟩 Part 1 — AND Gate Circuit**
-- Constructed using 7408 IC
-- Tested all input combinations using switches
+- Part 2 — NAND Gate Circuit
+  The circuit was built by connecting the 7408 IC and 7404 IC and was verified by comparing its resulting truth table, which represents an NAND logic function.
 
----
-
-### **🟧 Part 2 — NAND Gate Circuit**
-- Built using 7408 and 7404 IC
-- Compared truth table results with NAND logic behavior
+- Part 3 — Combined Logic Circuit
+  The constructed circuit, which used 7408 IC, 7404 IC, and 7432 IC to implement a multi-gate logic function, was simplified through Boolean algebra or visual methods, demonstrating that the complex circuit behaved identically to a much simpler single-gate equivalent .
 
 ---
 
-### **🟥 Part 3 — Combined Logic Circuit**
-- Build using 7408, 7404 and 7432 IC  
-- Constructed a slightly more complex logic circuit involving multiple gates  
-- Observed that the final circuit behaved like a single gate equivalent after simplification
+## 📊 Truth Table
+
+- Part 1 — AND Gate Circuit
+   | A | B | Output |
+   |---|---|--------|
+   | 0 | 0 | 0 |
+   | 0 | 1 | 0 |
+   | 1 | 0 | 0 |
+   | 1 | 1 | 1 |
+
+- Part 2 — NAND Gate Circuit
+   | A | B | C | Output |
+   |---|---|---|--------|
+   | 0 | 0 | 0 | 1 |
+   | 0 | 1 | 0 | 1 |
+   | 1 | 0 | 0 | 1 |
+   | 1 | 1 | 1 | 0 |
+
+- Part 3 — Combined Logic Circuit
+   | A | B | C | D | Output |
+   |---|---|---|---|--------|
+   | 0 | 0 | 0 | 0 | 0 |
+   | 0 | 1 | 0 | 1 | 1 |
+   | 1 | 0 | 1 | 0 | 1 |
+   | 1 | 1 | 0 | 0 | 0 |
 
 ---
 
-## 📊 Truth Table (PART 1)
+## 📝 Reflection
 
-| A | B | Output |
-|---|---|--------|
-| 0 | 0 | 0 |
-| 0 | 1 | 0 |
-| 1 | 0 | 0 |
-| 1 | 1 | 1 |
+This lab was my first hands-on experience with digital logic and it was fun and interesting! It helped me understand how theoretical logic gates behave in real hardware. Before this, I felt logic gates were abstract because everything was done on paper. In my opinion, it feels more interactive by using breadboards, switches and LEDs.
+
+One of the challenges I faced was to ensure the wires were connect correctly and to make sure the circuit was clean and organized to avoid mistakes and errors. Besides that, I also learned the importance of checking the IC orientation and verifying logic outputs using the mode switch and LEDs.
+
+All in all, this lab helped me connect theory with physical implementation. Now, I feel more confident to handle logic gate circuits and interpret the truth tables from real measurements instead of only theoretical assumptions.
 
 ---
 
@@ -94,13 +123,3 @@ Click [here](https://github.com/XuanYee06/MyUniversityJourney/blob/7c14801116182
 
 ![e84ed98c-4f13-452d-b807-d9dce675744e](https://github.com/user-attachments/assets/d878ce6a-0448-4231-83ab-768de88c6c3f)
 *PART 3 Combined Logic Circuit*  
-
----
-
-## 📝 Reflection
-
-This lab was my first hands-on experience with digital logic and it was fun and interesting! It helped me understand how theoretical logic gates behave in real hardware. Before this, I felt logic gates were abstract because everything was done on paper. In my opinion, it feels more interactive by using breadboards, switches and LEDs.
-
-One of the challenges I faced was to ensure the wires were connect correctly and to make sure the circuit was clean and organized to avoid mistakes and errors. Besides that, I also learned the importance of checking the IC orientation and verifying logic outputs using the mode switch and LEDs.
-
-All in all, this lab helped me connect theory with physical implementation. Now, I feel more confident to handle logic gate circuits and interpret the truth tables from real measurements instead of only theoretical assumptions.
