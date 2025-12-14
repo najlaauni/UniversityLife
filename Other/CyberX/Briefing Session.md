@@ -43,6 +43,8 @@ After attending this programme, my interest in cybersecurity has grown much stro
 ## 📸 Highlights
 Here are some photos during the programme:<br>
 
+![466d6afc-3566-4652-8b67-b139d0f702ef](https://github.com/user-attachments/assets/b6f3e69e-a6c7-4fa8-bb91-fed18423ec84)<br>
+
 ![a643909c-21d6-4088-a920-b21f9e9c9e35](https://github.com/user-attachments/assets/0dc68922-9b54-4d80-aee0-461866bf6d54)<br>
 
 ![80ba90ea-3abb-4c4e-8e24-345fc5ffe7e1](https://github.com/user-attachments/assets/42bff075-840d-4a11-bbaa-ca35cf4c0a11)<br>
