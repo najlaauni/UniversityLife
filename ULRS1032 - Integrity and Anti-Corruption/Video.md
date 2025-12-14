@@ -2,8 +2,7 @@
 
 
 ## 📑 Video Script
-The link below is our storylines & actor's lines  
-[Video Script.pdf](https://github.com/user-attachments/files/23694768/Video.Script.pdf)
+The link [here](https://docs.google.com/document/d/1RlRtoxsn96lyrwNrifzmKPbpuYqNoJVEXCqRtoXFESk/edit?tab=t.0) to view our storylines & actor's lines ! >⩊<
 <br>
 
 --- 
@@ -19,17 +18,18 @@ All in all, finishing this video project not only strengthened my understanding 
 ---
 
 ## 🔖 Task
-Click the link below to view our task document!  
-[Video Task](https://github.com/user-attachments/files/23694663/3.a.Arahan.video.PSA.docx)
+Click [here](https://github.com/user-attachments/files/23694663/3.a.Arahan.video.PSA.docx) to view the task ! >⩊<
 <br>
 
 --- 
 
 ## 📷 Group Photos
-![fe503ac1-e1eb-4292-9f0b-c78c967f9e51](https://github.com/user-attachments/assets/e56947ec-584e-4680-932c-2b89319257cd)
+Here are some photos from our group meeting :
+
+<img width="2560" height="1920" alt="image" src="https://github.com/user-attachments/assets/79ac3b19-f045-4c40-8042-120288fe17ca" />
 *Meeting 1*  
 <br>
-![59c8e2ff-d11b-4936-a3b5-e8bd73e3372c](https://github.com/user-attachments/assets/c6429bbe-c838-4168-b01b-061bedc91387)  
+![b1b8f5b3-6a3a-4e9e-8845-903ed292f09e](https://github.com/user-attachments/assets/c2aa0f7a-6195-47ed-8c7d-a5e978525383)
 *Meeting 2*  
 <br>
 
