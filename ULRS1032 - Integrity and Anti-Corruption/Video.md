@@ -27,11 +27,11 @@ Click [here](https://github.com/user-attachments/files/23694663/3.a.Arahan.video
 Here are some photos from our group meeting :
 
 <img width="2560" height="1920" alt="image" src="https://github.com/user-attachments/assets/79ac3b19-f045-4c40-8042-120288fe17ca" />
-*Meeting 1*  
-<br>
-![b1b8f5b3-6a3a-4e9e-8845-903ed292f09e](https://github.com/user-attachments/assets/c2aa0f7a-6195-47ed-8c7d-a5e978525383)
-*Meeting 2*  
-<br>
+<br>*Meeting 1*  
+
+<img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/c640a9ff-e238-466e-a5b3-41a31a468f6f" />
+<br>*Meeting 2*  
+
 
 ---
 
