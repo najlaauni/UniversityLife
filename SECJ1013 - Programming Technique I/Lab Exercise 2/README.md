@@ -1,0 +1,5 @@
+As a freshie, the video project was an iceberg and it split me and my workmates up. At the first, we buried ourselves in the ocean of thoughts, then we assigned characters and wrote the dialogues for every scene. We met in person and virtually several times to throw ideas around, split up the work, and succeed in coming up with a clear plot for the video.
+
+While shooting, we had problems like deciding on recording places, coordinating people's times, and keeping a good quality of sound and image. All these problems formed us into communicators who were effective, patient, and worked well with others. The participation had each tracing his contributions in a different way, namely acting, recording, editing, and reviewing the final video, which made the collaboration more organized and productive.
+
+To sum up, the video project not only solidified my rightful understanding of corruption-free values but also sharpened my communication and cooperative skills further. I got the point that integrity is not merely a notion that is imparted to us through lectures but a certain practice that has to be done through our deeds and choices.
