@@ -1,8 +1,7 @@
-# 📰 A2 - Sized Poster
+# 📰 TUGASAN POSTER KAJIAN KES 
 
 ## 🔖 Task
-Click the link below to view our task document!  
-[Poster Task](https://github.com/user-attachments/files/23694725/2.a.Tugasan.kajian.kes_Poster.1.docx) 
+Click the [Here](https://github.com/user-attachments/files/23694725/2.a.Tugasan.kajian.kes_Poster.1.docx) to view the task !  
 <br>
 
 ---
