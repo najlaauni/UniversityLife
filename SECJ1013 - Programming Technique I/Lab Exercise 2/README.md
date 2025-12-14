@@ -1,5 +1,19 @@
-As a freshie, the video project was an iceberg and it split me and my workmates up. At the first, we buried ourselves in the ocean of thoughts, then we assigned characters and wrote the dialogues for every scene. We met in person and virtually several times to throw ideas around, split up the work, and succeed in coming up with a clear plot for the video.
+# Lab Exercise 2
+This repository contains my personal record of Lab Exercise 2 (Section 03) for my coursework. The task for this lab exercise was to convert a given flowchart into a complete C++ program.  
 
-While shooting, we had problems like deciding on recording places, coordinating people's times, and keeping a good quality of sound and image. All these problems formed us into communicators who were effective, patient, and worked well with others. The participation had each tracing his contributions in a different way, namely acting, recording, editing, and reviewing the final video, which made the collaboration more organized and productive.
+📆Date: 14 November 2025  
+🕙Time: 11:20am - 11:50am  
+🎈Venue: MPK8, N28  
 
-To sum up, the video project not only solidified my rightful understanding of corruption-free values but also sharpened my communication and cooperative skills further. I got the point that integrity is not merely a notion that is imparted to us through lectures but a certain practice that has to be done through our deeds and choices.
+## 📘 Task Description
+We were required to:
+- View and understand the provided flowchart  
+- Convert the entire flowchart logic into a working C++ program  
+- Save the file using the required naming format  
+- Submit the completed C++ file through the eLearning platform
+
+## 🎯 Purpose of This Repository
+This repository serves as:
+- A record of the lab exercise  
+- A place for tracking my learning progress  
+- A documentation of coursework activities  
