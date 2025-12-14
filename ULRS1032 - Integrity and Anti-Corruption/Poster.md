@@ -25,7 +25,7 @@ In conclusion, the assignment was a hard one but it still was a good practice fo
 ---
 
 ## 🔖 Task
-Click the [Here](https://github.com/user-attachments/files/23694725/2.a.Tugasan.kajian.kes_Poster.1.docx) to view the task !  
+Click the [here](https://github.com/user-attachments/files/23694725/2.a.Tugasan.kajian.kes_Poster.1.docx) to view the task !  
 <br>
 
 ---
