@@ -1,14 +1,13 @@
 # 📰 TUGASAN POSTER KAJIAN KES 
 
-## 🔖 Task
-Click the [Here](https://github.com/user-attachments/files/23694725/2.a.Tugasan.kajian.kes_Poster.1.docx) to view the task !  
-<br>
-
----
-
 ## 🔗 Methodology - Google Form
-Click the link below to view our survey questions!  
-https://docs.google.com/forms/d/e/1FAIpQLSeLCp8yS2rh0xfvfh7-RcnRiQBtcsraUY4w9wwspeZQUgZhYQ/viewform
+Survey method via google forms. A total of 101 respondents in the country of students who take the subject of integrity and anti-corruption. <br>
+Focus of questions: <br>
+- Respondents' knowledge level about the issues of corruption in sports.
+- Perception of the causes and effects of corruption
+- Suggested preventive measures.
+
+Click [here](https://docs.google.com/forms/d/e/1FAIpQLScZP8fd0IBJKpL9mN61zexkr1Z10aZg2yzb1rtfdZswbS4Odw/viewform?fbzx=-843493291970799666) to view our survey questions!  
 <br>
 
 ---
@@ -23,6 +22,12 @@ All in all, the discussions and collaboration helped us complete the task succes
 
 ---
 
+## 🔖 Task
+Click the [Here](https://github.com/user-attachments/files/23694725/2.a.Tugasan.kajian.kes_Poster.1.docx) to view the task !  
+<br>
+
+---
+
 ## 📑 Final A2 - Sized Poster
-Click the link below to view our poster.  
-https://www.canva.com/design/DAG3J5BupAU/4_jL9nOSFJrX2wjhQJG7rw/edit?utm_content=DAG3J5BupAU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[ULRS GROUP 6.pdf](https://github.com/user-attachments/files/24148403/ULRS.GROUP.6.pdf)
+
