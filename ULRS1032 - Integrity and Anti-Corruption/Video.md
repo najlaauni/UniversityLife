@@ -28,7 +28,7 @@ Here are some photos from our group meeting :
 
 <img width="2560" height="1920" alt="image" src="https://github.com/user-attachments/assets/79ac3b19-f045-4c40-8042-120288fe17ca" />
 
-<br> *Meeting 1*  <br>
+                                                    <br> *Meeting 1*  <br>
 
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/c640a9ff-e238-466e-a5b3-41a31a468f6f" />
 
