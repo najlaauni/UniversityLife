@@ -36,7 +36,7 @@ Here are some photos from our group meeting :
 
 ---
 
-📁 **View the full video here:**  [Vlog Materials](https://drive.google.com/drive/folders/1DHIjzpqgfz-e7zbxn4nbgMVvghhcwsbm)
+📁 **View the progress of the video here:**  [Vlog Materials](https://drive.google.com/drive/folders/1DHIjzpqgfz-e7zbxn4nbgMVvghhcwsbm)
 <br>
 
 ---
