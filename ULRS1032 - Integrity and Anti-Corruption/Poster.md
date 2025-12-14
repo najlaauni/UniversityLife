@@ -7,7 +7,7 @@ Focus of questions: <br>
 - Perception of the causes and effects of corruption
 - Suggested preventive measures.
 
-Click [here](https://docs.google.com/forms/d/e/1FAIpQLScZP8fd0IBJKpL9mN61zexkr1Z10aZg2yzb1rtfdZswbS4Odw/viewform?fbzx=-843493291970799666) to view our survey questions!  
+Click [here](https://docs.google.com/forms/d/e/1FAIpQLScZP8fd0IBJKpL9mN61zexkr1Z10aZg2yzb1rtfdZswbS4Odw/viewform?fbzx=-843493291970799666) to view our survey questions ! >⩊<
 <br>
 
 ---
@@ -25,7 +25,7 @@ In conclusion, the assignment was a hard one but it still was a good practice fo
 ---
 
 ## 🔖 Task
-Click the [here](https://github.com/user-attachments/files/23694725/2.a.Tugasan.kajian.kes_Poster.1.docx) to view the task !  
+Click the [here](https://github.com/user-attachments/files/23694725/2.a.Tugasan.kajian.kes_Poster.1.docx) to view the task ! >⩊<
 <br>
 
 ---
