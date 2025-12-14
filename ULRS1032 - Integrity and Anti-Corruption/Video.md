@@ -34,6 +34,10 @@ Here are some photos from our group meeting :
 
 <br> *Meeting 2*  <br>
 
+---
+
+📁 **View the full video here:**  [Vlog Materials](https://drive.google.com/drive/folders/1DHIjzpqgfz-e7zbxn4nbgMVvghhcwsbm)
+<br>
 
 ---
 
