@@ -13,11 +13,13 @@ Click [here](https://docs.google.com/forms/d/e/1FAIpQLScZP8fd0IBJKpL9mN61zexkr1Z
 ---
 
 ## 🧠 Reflection
-Before starting to create a poster, my group members and I held several face-to-face and online discussions to choose a relevant issue and topic related to the task requirement. Besides that, we do some background research to understand the problem better. During our meetings, we identified the objectives, created survey questions and planned how to collect data. Moreover, we divide responsibilities fairly and every member played a role in gathering information, analysing responses and writing the content after we have selected the poster template in Canva.
+The first thing my group members and I did was to have a several face-to-face and online discussions to select an appropriate issue that met the task requirements before getting into the design. We also did background research to clarify the problem better, which enabled us to set our objectives, create survey questions, and arrange a good way of data collection. 
 
-We summarized and designed the key sections such as methodology and findings into our poster. It took time for us to revise the layout, check the accuracy of facts and ensure a proper referencing. After submitting this poster, we are required to present our poster and ideas to our friends in front of the lecture hall. In my opinion, although the task was challenging, it strengthened my research skills and improved my ability to present information clearly. 
+We chose to divide the responsibilities equally so that no member of the team would be left out in the process of working on the project. There were people who concentrated on collecting data, others who were responsible for interpreting and reporting the survey results, while the rest of the team was involved in writing and structuring the content after we had found a proper template for the poster in Canva. This teamwork was a great lesson for me on how valuable teamwork, effective communication and taking responsibility are for getting a group task done successfully.
 
-All in all, the discussions and collaboration helped us complete the task successfully and deepened my understanding on how integrity plays a critical role in preventing corruption in the society.
+During the process of making the poster, we briefly presented key parts like the methodology and findings of our research in a very straightforward and simple manner. A lot of our time went to re-organizing the layout, verifying the information, and making sure the references were correct. After the poster submission, we gave a presentation of our work in the lecture which was a great help in increasing my confidence and in developing my skill of presenting ideas to people in a clear way.
+
+In conclusion, the assignment was a hard one but it still was a good practice for my research and presentation skills. What is more important is that I have realized the power that integrity has in curbing corruption in the society which made this task a really good learning experience for me.
 <br>
 
 ---
@@ -29,5 +31,5 @@ Click the [Here](https://github.com/user-attachments/files/23694725/2.a.Tugasan.
 ---
 
 ## 📑 Final A2 - Sized Poster
-[ULRS GROUP 6.pdf](https://github.com/user-attachments/files/24148403/ULRS.GROUP.6.pdf)
+<img width="1587" height="2245" alt="ULRS GROUP 6" src="https://github.com/user-attachments/assets/295f9ee6-255e-4b3d-8ccd-afdf657b2037" />
 
