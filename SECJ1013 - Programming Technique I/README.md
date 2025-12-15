@@ -1,5 +1,5 @@
 # SECJ1013 - Programming Technique I
-👩‍🏫 Lecturer: Dr. Muhammad Luqman bin Mohd Shafie 
+👩‍🏫 Lecturer: Dr. Muhammad Luqman bin Mohd Shafie <br>
 🏫 Section: 02
 
 This course introduces the fundamentals of programming using the C++ programming language. I learned how to write, debug and test simple programs. In the same way, my problem-solving abilities were reinforced by means of practical assignments and projects. The skills that I acquired in this course are believed to be beneficial in the future programming tasks.
