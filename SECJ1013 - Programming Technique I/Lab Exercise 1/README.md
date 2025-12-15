@@ -5,6 +5,8 @@ Date: 17 October 2025
 Time: 12:00am - 12.50am  
 Venue: Online Class
 
+---
+
 ## 📘 Task Description
 
 I chose set 1 which needs to construct a flow chart that reads an integer number and then calculates the sum of its digits. After that, identify whether the sum of digits for the integer is a multiple of 3, 4, and/or 5. Also, I should use operator divide (/) and modulus (%) and also post-test loop to answer this question. From set 1, I have required to : <br>
@@ -12,6 +14,8 @@ I chose set 1 which needs to construct a flow chart that reads an integer number
 - Construct a flow chart that has the same output as a set that I chose
 - Save the file using the required naming format  
 - Submit the flowchart through the eLearning platform
+
+---
 
 ## 🎯 Purpose of This Repository
 This repository will be employed to:  
