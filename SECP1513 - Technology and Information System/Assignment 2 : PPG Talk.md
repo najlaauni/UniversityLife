@@ -45,6 +45,8 @@ Here are some photos during the industry talk:<br>
 *Poster of PPG Industry Talk* 
 <br>
 
+![9a8d4f33-8ab8-458a-b869-af4cc140740b](https://github.com/user-attachments/assets/ed39657b-4870-4078-b8f2-be975cb7525b) <br>
+
 ![9a9abcea-5316-4897-91ee-cc8123299e9a](https://github.com/user-attachments/assets/a2e602df-d16b-435a-b150-3dc9ec43e97b)<br>
 *Group photo of future data engineers*
 
