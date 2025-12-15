@@ -14,7 +14,7 @@ I chose set 1 which needs to construct a flow chart that reads an integer number
 - Submit the flowchart through the eLearning platform
 
 ## 🎯 Purpose of This Repository
-This repository serves as:
-- A record of the lab exercise  
-- A place for tracking my learning progress  
-- A documentation of coursework activities  
+This repository will be employed to:  
+- Keep and record details of lab exercises  
+- Follow up on my learning progress  
+- Register the activities and coursework.  
