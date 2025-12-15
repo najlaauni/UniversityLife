@@ -13,7 +13,7 @@ I chose set 1 which needs to write a complete C++ program that reads an integer 
 - View and understand the provided output of the set I chose 
 - Write a complete C++ program that has the same output as a set that I chose
 - Save the file using the required naming format  
-- Submit the C++ program through the eLearning platform
+- Submit the complete C++ program through the eLearning platform
 
 ---
 
