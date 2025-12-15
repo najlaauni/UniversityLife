@@ -1,16 +1,17 @@
-# Lab Exercise 1
-This repository contains my personal record of Lab Exercise 2 (Section 03) for my coursework. The task for this lab exercise was to convert a given flowchart into a complete C++ program.  
+# 🔧 Lab Exercise 1
+This repository contains my personal record of Lab Exercise 1 (Section 02) for my coursework. The task for this lab exercise was to construct a flow chart based on 4 sets that were given by the lecturer.
 
-📆Date: 14 November 2025  
-🕙Time: 11:20am - 11:50am  
-🎈Venue: MPK8, N28  
+Date: 17 October 2025  
+Time: 12:00am - 12.50am  
+Venue: Online Class
 
 ## 📘 Task Description
-We were required to:
-- View and understand the provided flowchart  
-- Convert the entire flowchart logic into a working C++ program  
+
+I chose set 1 which needs to construct a flow chart that reads an integer number and then calculates the sum of its digits. After that, identify whether the sum of digits for the integer is a multiple of 3, 4, and/or 5. Also, I should use operator divide (/) and modulus (%) and also post-test loop to answer this question. From set 1, I have required to : <br>
+- View and understand the provided output of the set I chose 
+- Construct a flow chart that has the same output as a set that I chose
 - Save the file using the required naming format  
-- Submit the completed C++ file through the eLearning platform
+- Submit the flowchart through the eLearning platform
 
 ## 🎯 Purpose of This Repository
 This repository serves as:
