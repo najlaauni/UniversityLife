@@ -1,5 +1,5 @@
-# 🔧 Lab Exercise 1
-This repository contains my personal record of Lab Exercise 1 (Section 02) for my coursework. The task for this lab exercise was to construct a flow chart based on 4 sets that were given by the lecturer.
+# 🔧 Assignment 1
+This repository contains my personal record of Assignment 1 (Section 02) for my coursework. The task for this lab exercise was to construct a flow chart based on 2 sets that were given by the lecturer.
 
 Date: 17 October 2025  
 Time: 12:00am - 12.50am  
