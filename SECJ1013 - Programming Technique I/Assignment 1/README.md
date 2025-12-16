@@ -13,7 +13,7 @@ This assignment must be done in pairs which means a group consisting of 2 member
 - Apply : <br>
   a) Branching/ selection (if..else)<br>
   b) Loop/ repetition (repeat..until/ do..while)<br>
-  c) User-defined function flow chart. Besides the main function flow chart, at least ONE more other function flow chart. Use appropriate arguments for the function.<br>
+  c) User-defined function flow chart. Besides the main function flow chart, at least one more other function flow chart. Use appropriate arguments for the function.
 - Save the file using the required naming format  
 - Submit the flowchart through the eLearning platform
 
