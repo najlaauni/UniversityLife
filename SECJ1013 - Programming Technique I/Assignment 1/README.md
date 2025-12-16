@@ -1,17 +1,15 @@
 # 🔧 Assignment 1
 This repository contains my personal record of Assignment 1 (Section 02) for my coursework. The task for this lab exercise was to construct a flow chart based on 2 sets that were given by the lecturer.
 
-Date: 17 October 2025  
-Time: 12:00am - 12.50am  
-Venue: Online Class
+Date: 29 October 2025 until 3 November 2025  
 
 ---
 
 ## 📘 Task Description
 
-I chose set 1 which needs to construct a flow chart that reads an integer number and then calculates the sum of its digits. After that, identify whether the sum of digits for the integer is a multiple of 3, 4, and/or 5. Also, I should use operator divide (/) and modulus (%) and also post-test loop to answer this question. From set 1, I have required to : <br>
-- View and understand the provided output of the set I chose 
-- Construct a flow chart that has the same output as a set that I chose
+This assignment must be done in pairs which means a group consisting of 2 members. We got set 2 which needs to construct a flow chart that develops a Loan Calculator to estimate a monthly installment and help to plan finances. From set 2, I have required to : <br>
+- View and understand the provided output of the set I got 
+- Construct a flow chart that has the same output as a set that I got
 - Save the file using the required naming format  
 - Submit the flowchart through the eLearning platform
 
