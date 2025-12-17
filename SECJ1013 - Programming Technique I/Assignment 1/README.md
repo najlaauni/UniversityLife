@@ -21,6 +21,6 @@ This assignment must be done in pairs which means a group consisting of 2 member
 
 ## 🎯 Purpose of This Repository
 This repository will be employed to:  
-- Keep and record details of lab exercises  
+- Keep and record details of assignments 
 - Follow up on my learning progress  
 - Register the activities and coursework.  
