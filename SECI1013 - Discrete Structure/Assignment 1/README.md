@@ -7,15 +7,15 @@ Date: 22 October 2025 until 30 October 2025
 
 ## 📘 Task Description
 
-This assignment must be done in a group consisting of 3 or 4 members. We need to solve all the questions by writing them neatly and readily on the plain A4 paper. From this assignment, we have required to : <br>
+This assignment must be done in a group consisting of 3 or 4 members. We need to solve all the questions by writing them neatly and readily on the plain A4 paper. From this assignment, we have been required to : <br>
 - View and understand the provided questions 
 - Answer all 6 questions :
   - list down the set
-  - prove a set by showing all laws that used
-  - find the number of students using a formula of the set
+  - prove a set by showing all laws that were used
+  - find the number of students using a formula from the set
   - consider a statement
   - use truth table to check if the compound propositions A and B are logically equivalent
-  - proof that if x is an odd integer and y is an even integer then 𝑥^2 − 2𝑦 is an odd integer using direct proofing
+  - proof that if x is an odd integer and y is an even integer then $x^2$ − 2𝑦 is an odd integer using direct proofing
 - Write all the name's of members of the group in the front page   
 - Submit the assignment as hardcopy through the lecturer
 
