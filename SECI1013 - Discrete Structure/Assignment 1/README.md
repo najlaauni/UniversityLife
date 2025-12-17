@@ -1,26 +1,28 @@
 # 🔧 Assignment 1
-This repository contains my personal record of Assignment 1 (Section 02) for my coursework. The task for this assignment was to construct a flow chart based on 2 sets that were given by the lecturer.
+This repository contains my personal record of Assignment 1 (Section 02) for my coursework. The task for this assignment was about Chapter 1 - Set Theory & Logic.
 
-Date: 29 October 2025 until 3 November 2025  
+Date: 22 October 2025 until 30 October 2025  
 
 ---
 
 ## 📘 Task Description
 
-This assignment must be done in pairs which means a group consisting of 2 members. We got set 2 which needs to construct a flow chart that develops a Loan Calculator to estimate a monthly installment and help to plan finances. From set 2, I have required to : <br>
-- View and understand the provided output of the set I got 
-- Construct a flow chart that has the same output as a set that I got
-- Apply : <br>
-  a) Branching/selection (if..else)<br>
-  b) Loop/repetition (repeat..until/do..while)<br>
-  c) User-defined function flow chart. Besides the main function flow chart, at least one more other function flow chart. Use appropriate arguments for the function.
-- Save the file using the required naming format  
-- Submit the flowchart through the eLearning platform
+This assignment must be done in a group consisting of 3 or 4 members. We need to solve all the questions by writing them neatly and readily on the plain A4 paper. From this assignment, we have required to : <br>
+- View and understand the provided questions 
+- Answer all 6 questions :
+  - list down the set
+  - prove a set by showing all laws that used
+  - find the number of students using a formula of the set
+  - consider a statement
+  - use truth table to check if the compound propositions A and B are logically equivalent
+  - proof that if x is an odd integer and y is an even integer then 𝑥^2 − 2𝑦 is an odd integer using direct proofing
+- Write all the name's of members of the group in the front page   
+- Submit the assignment as hardcopy through the lecturer
 
 ---
 
 ## 🎯 Purpose of This Repository
 This repository will be employed to:  
-- Keep and record details of lab exercises  
+- Keep and record details of assigntments  
 - Follow up on my learning progress  
-- Register the activities and coursework.  
+- Register the activities and coursework
