@@ -23,6 +23,6 @@ This assignment must be done in a group consisting of 3 or 4 members. We need to
 
 ## 🎯 Purpose of This Repository
 This repository will be employed to:  
-- Keep and record details of assigntments  
+- Keep and record details of assignments  
 - Follow up on my learning progress  
 - Register the activities and coursework
