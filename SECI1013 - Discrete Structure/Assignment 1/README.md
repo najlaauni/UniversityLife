@@ -15,9 +15,9 @@ This assignment must be done in a group consisting of 3 or 4 members. We need to
   - find the number of students using a formula from the set
   - consider a statement
   - use truth table to check if the compound propositions A and B are logically equivalent
-  - proof that if x is an odd integer and y is an even integer then $x^2$ − 2𝑦 is an odd integer using direct proofing
-- Write all the name's of members of the group in the front page   
-- Submit the assignment as hardcopy through the lecturer
+  - proof by using direct proofing
+- Write all the names of members of the group on the front page   
+- Submit the assignment as a hard copy through the lecturer
 
 ---
 
