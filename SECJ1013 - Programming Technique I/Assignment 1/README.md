@@ -1,5 +1,5 @@
 # 🔧 Assignment 1
-This repository contains my personal record of Assignment 1 (Section 02) for my coursework. The task for this lab exercise was to construct a flow chart based on 2 sets that were given by the lecturer.
+This repository contains my personal record of Assignment 1 (Section 02) for my coursework. The task for this assignment was to construct a flow chart based on 2 sets that were given by the lecturer.
 
 Date: 29 October 2025 until 3 November 2025  
 
