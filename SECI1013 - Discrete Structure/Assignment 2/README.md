@@ -15,8 +15,8 @@ This assignment must be done in a group consisting of 3 members which has been a
   - construct the matrix of relation, list in-degrees and out-degrees of all vertices, and determine whether the relation is a partial order relation or not.
   - determine whether the function is one–one, onto, or bijective.
   - find the inverse and composition function.
-  - write the recurrence relation and use it to find the value of 𝑃ହ.
-  - write a recursive algorithm to calculate the nᵗʰ term of the sequence and trace the recursive steps to compute 𝑠ସ .
+  - write the recurrence relation and use it to find the value of 𝑃5.
+  - write a recursive algorithm to calculate the nᵗʰ term of the sequence and trace the recursive steps to compute 𝑠4 .
 - Write all the names of members of the group on the front page   
 - Submit the assignment as a soft copy through eLearning.
 
