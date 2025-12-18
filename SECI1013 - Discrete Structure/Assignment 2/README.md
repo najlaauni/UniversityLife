@@ -1,24 +1,28 @@
-# 🔧 Lab Exercise 1
-This repository contains my personal record of Lab Exercise 1 (Section 02) for my coursework. The task for this lab exercise was to construct a flow chart based on 4 sets that were given by the lecturer.
+# 🔧 Assignment 1
+This repository contains my personal record of Assignment 1 (Section 02) for my coursework. The task for this assignment was about Chapter 1 - Set Theory & Logic.
 
-Date: 17 October 2025  
-Time: 12:00am - 12.50am  
-Venue: Online Class
+Date: 22 October 2025 until 30 October 2025  
 
 ---
 
 ## 📘 Task Description
 
-I chose set 1 which needs to construct a flow chart that reads an integer number and then calculates the sum of its digits. After that, identify whether the sum of digits for the integer is a multiple of 3, 4, and/or 5. Also, I should use operator divide (/) and modulus (%) and also post-test loop to answer this question. From set 1, I have required to : <br>
-- View and understand the provided output of the set I chose 
-- Construct a flow chart that has the same output as a set that I chose
-- Save the file using the required naming format  
-- Submit the flowchart through the eLearning platform
+This assignment must be done in a group consisting of 3 or 4 members. We need to solve all the questions by writing them neatly and readily on the plain A4 paper. From this assignment, we have been required to : <br>
+- View and understand the provided questions 
+- Answer all 6 questions :
+  - list down the set
+  - prove a set by showing all laws that were used
+  - find the number of students using a formula from the set
+  - consider a statement
+  - use truth table to check if the compound propositions A and B are logically equivalent
+  - proof by using direct proofing
+- Write all the names of members of the group on the front page   
+- Submit the assignment as a hard copy through the lecturer
 
 ---
 
 ## 🎯 Purpose of This Repository
 This repository will be employed to:  
-- Keep and record details of lab exercises  
+- Keep and record details of assignments  
 - Follow up on my learning progress  
-- Register the activities and coursework.  
+- Register the activities and coursework
