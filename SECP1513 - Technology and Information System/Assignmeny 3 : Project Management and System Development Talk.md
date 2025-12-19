@@ -1,4 +1,4 @@
-# 🎤 PPG Industry Talk 
+# 🎤 Project Management and System Development Talk
 
 **Date:** 20 November 2025  
 **Time:** 2:30pm - 3:35pm  
