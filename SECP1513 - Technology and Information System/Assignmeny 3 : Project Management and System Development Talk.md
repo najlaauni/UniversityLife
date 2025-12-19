@@ -1,7 +1,7 @@
 # 🎤 Project Management and System Development Talk
 
 **Date:** 18 December 2025  
-**Time:** 2:30pm - 3:35pm  
+**Time:** 2:00pm - 4:00pm  
 **Venue:** Hyflex Classroom, N28A  
 
 
