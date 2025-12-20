@@ -46,10 +46,5 @@ Besides gaining technical knowledge in software simulation, this lab helped me c
 
 ---
 
-## 🔧 Improvement Suggestions
-- Provide a short post-lab discussion to review common mistakes and reinforce key concepts learned during the session.<br>
-
----
-
 ## 📎 File 
-Click [here](https://github.com/user-attachments/files/24141028/Lab.1.-.Handout.pdf) to view Lab 1 Handout  
+Click [here](https://liveutm-my.sharepoint.com/:w:/r/personal/ahmadfariz_live_utm_my/_layouts/15/Doc.aspx?sourcedoc=%7B4BEB74DB-583D-437A-80AA-17CAB87C2304%7D&file=Lab%202.docx&action=default&mobileredirect=true) to view Lab 2 Handout  
