@@ -15,10 +15,9 @@ We used several IC logic gates such as:
 ---
 
 ## 🎯 Objectives
-The objectives of this lab session are to introduce the student to:
-- basic bread boarding and wiring techniques.
-- the use of input switches and output LEDs in generating truth tables for a combinational logic circuit.
-- verify the characteristic of the basic gates.
+The objectives of this lab session are to:
+- expose student with producing digital logic circuit, generating truth table and Timing Diagram with Deeds Simulator.
+-  expose student with a complete cycle process of a combinatorial circuit design and simulate with Deeds Simulator.
 
 ---
 
