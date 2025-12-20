@@ -1,5 +1,5 @@
 # 🔧 Lab 2 — Combinational Digital Circuit Design Simulation Using Deeds Simulator
-**Date:** 8 December 22 December 2025  
+**Date:** 8 December 2025 22 December 2025  
    
 
 ---
