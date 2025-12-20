@@ -1,23 +1,64 @@
 # 🔧 Lab 2 — Combinational Digital Circuit Design Simulation Using Deeds Simulator
 **Date:** 8 December 2025 until 22 December 2025  
-   
+
+---
+
+This lab, titled "Lab 2: Combinational Digital Circuit Design Simulation Using Deeds Simulator," focuses on the design, simplification, and simulation of combinatorial logic circuits within the Digital Logic course (SCSR1013/SECR1013).
+
+
+Objectives
+The primary goals of the lab are to:
+
+Expose students to creating digital logic circuits, generating truth tables, and producing timing diagrams using the Deeds Simulator.
+
+Provide experience with the full design cycle of a combinatorial circuit, from problem description to final simulation.
+
+Key Components
+The lab is divided into two main experimental parts:
+
+1. Circuit Analysis (Part 1)
+
+Students are given a specific logic circuit and must derive its initial Boolean expressions.
+
+
+These expressions are simplified into Sum of Product (SOP) and Product of Sum (POS) forms using De Morgan’s Theorem and other logic rules.
+
+
+Students then verify their manual work by simulating the circuit in Deeds to generate truth tables and timing waveforms.
+
+
+2. Combinational Circuit Design (Part 2)
+
+This section involves a practical design problem: creating a logic circuit to control an LRT coach door (OPEN and ALARM signals) based on the coach's status and its arrival at specific stations (S1, S2, or S3).
+
+Design Process:
+
+Defining input/output relations and constructing a truth table.
+
+
+Using Karnaugh Maps (K-Maps) to find optimized SOP equations.
+
+
+Implementing the design in Deeds Simulator.
+
+Converting the initial circuit into a design using only NAND gates, demonstrating their status as "Universal Gates".
+
+
+Tools Used
+
+Deeds Simulator (d-DcS): A graphical schematic editor used for building, animating, and analyzing digital networks. It allows for both interactive "animation" of inputs and timing-mode simulations to observe signal sequences over time.
 
 ---
 
 ## 📌 Overview
-The lab session presented the fundamental principles of combinational logic circuits. Besides, it was mainly about the practical aspect of working with wiring, breadboarding, and using real hardware testing to verify the behaviors of the logic gates. The main objective of this laboratory was to construct basic logic circuits and then check their behavior using switches and LEDs in order to confirm their truth tables.
-
-We used several IC logic gates such as:
-- 7408 — AND Gate<br>
-- 7404 — NOT Gate (Inverter)<br>
-- 7432 — OR Gate<br>
+The lab session presented the fundamental principles of combinational logic circuit design, simplification, and optimization using Boolean algebra and K-maps. Besides, it was mainly about the practical aspect of using the Deeds Simulator to construct digital networks, generate timing diagrams, and verify logic behaviors through software-based simulation and universal gate implementation.
 
 ---
 
 ## 🎯 Objectives
 The objectives of this lab session are to:
 - expose student with producing digital logic circuit, generating truth table and Timing Diagram with Deeds Simulator.
--  expose student with a complete cycle process of a combinatorial circuit design and simulate with Deeds Simulator.
+- expose student with a complete cycle process of a combinatorial circuit design and simulate with Deeds Simulator.
 
 ---
 
