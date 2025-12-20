@@ -1,4 +1,4 @@
-# 🔧 Lab  — Combinational Digital Circuit Design Simulation Using Deeds Simulator
+# 🔧 Lab 2 — Combinational Digital Circuit Design Simulation Using Deeds Simulator
 **Date:** 18 November 2025  
 **Time:** 11:00am - 1:00pm  
 **Location:** Digital Logic Lab (room no 328-02, N28)
