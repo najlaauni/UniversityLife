@@ -3,48 +3,7 @@
 
 ---
 
-This lab, titled "Lab 2: Combinational Digital Circuit Design Simulation Using Deeds Simulator," focuses on the design, simplification, and simulation of combinatorial logic circuits within the Digital Logic course (SCSR1013/SECR1013).
-
-
-Objectives
-The primary goals of the lab are to:
-
-Expose students to creating digital logic circuits, generating truth tables, and producing timing diagrams using the Deeds Simulator.
-
-Provide experience with the full design cycle of a combinatorial circuit, from problem description to final simulation.
-
-Key Components
-The lab is divided into two main experimental parts:
-
-1. Circuit Analysis (Part 1)
-
-Students are given a specific logic circuit and must derive its initial Boolean expressions.
-
-
-These expressions are simplified into Sum of Product (SOP) and Product of Sum (POS) forms using De Morgan’s Theorem and other logic rules.
-
-
-Students then verify their manual work by simulating the circuit in Deeds to generate truth tables and timing waveforms.
-
-
-2. Combinational Circuit Design (Part 2)
-
-This section involves a practical design problem: creating a logic circuit to control an LRT coach door (OPEN and ALARM signals) based on the coach's status and its arrival at specific stations (S1, S2, or S3).
-
-Design Process:
-
-Defining input/output relations and constructing a truth table.
-
-
-Using Karnaugh Maps (K-Maps) to find optimized SOP equations.
-
-
-Implementing the design in Deeds Simulator.
-
-Converting the initial circuit into a design using only NAND gates, demonstrating their status as "Universal Gates".
-
-
-Tools Used
+## 🧰 Tools Used
 
 Deeds Simulator (d-DcS): A graphical schematic editor used for building, animating, and analyzing digital networks. It allows for both interactive "animation" of inputs and timing-mode simulations to observe signal sequences over time.
 
@@ -63,14 +22,17 @@ The objectives of this lab session are to:
 ---
 
 ## 🧪 Laboratory Work
-- Part 1 — AND Gate Circuit<br>
-  The combinational logic circuit was built using the 7408 IC and verified by testing all possible input combinations with switches.
 
-- Part 2 — NAND Gate Circuit<br>
-  The circuit was built by connecting the 7408 IC and 7404 IC and was verified by comparing its resulting truth table, which represents an NAND logic function.
+Part 1 — Circuit Analysis
+Students are given a specific logic circuit and must derive its initial Boolean expressions. These expressions are simplified into Sum of Product (SOP) and Product of Sum (POS) forms using De Morgan’s Theorem and other logic rules. Students then verify their manual work by simulating the circuit in Deeds to generate truth tables and timing waveforms.
 
-- Part 3 — Combined Logic Circuit<br>
-  The constructed circuit, which used 7408 IC, 7404 IC, and 7432 IC to implement a multi-gate logic function, was simplified through Boolean algebra or visual methods, demonstrating that the complex circuit behaved identically to a much simpler single-gate equivalent.
+Part 2 — Combinational Circuit Design 
+This section involves a practical design problem: creating a logic circuit to control an LRT coach door (OPEN and ALARM signals) based on the coach's status and its arrival at specific stations (S1, S2, or S3).
+Design Process:
+- Defining input/output relations and constructing a truth table.
+- Using Karnaugh Maps (K-Maps) to find optimized SOP equations.
+- Implementing the design in Deeds Simulator.
+- Converting the initial circuit into a design using only NAND gates, demonstrating their status as "Universal Gates".
 
 ---
 
