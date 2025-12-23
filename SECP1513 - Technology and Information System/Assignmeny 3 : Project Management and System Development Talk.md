@@ -39,8 +39,8 @@ After the industry talk, my interest in mastering these core skills grew even st
 ## 📷 Photos
 Here are some photos during the industry talk:<br>
 
-![6bedc781-595e-40a9-98c3-281e78ee5ba5](https://github.com/user-attachments/assets/ed6c4c1f-a6ad-4e02-8263-54fb240a9e40) <br>
-*Poster of PPG Industry Talk* 
+<img width="449" height="494" alt="image" src="https://github.com/user-attachments/assets/96d9640c-1a90-4f2a-9112-77e25e6f5e34" /> <br>
+*Poster of Industry Talk 2* 
 <br>
 
 ![9a8d4f33-8ab8-458a-b869-af4cc140740b](https://github.com/user-attachments/assets/ed39657b-4870-4078-b8f2-be975cb7525b) <br>
