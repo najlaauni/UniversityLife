@@ -57,6 +57,6 @@ Here are some photos during the industry talk:<br>
 ---
 
 ## ☁️ The Poster Of PPG Industry Talk
-<img width="1414" height="2000" alt="PPG INDUSTRY TALK 1" src="https://github.com/user-attachments/assets/38d0961c-428e-4e31-be8e-a8268ee14846" />
+
 
 
