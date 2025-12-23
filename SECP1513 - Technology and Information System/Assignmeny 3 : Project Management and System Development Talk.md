@@ -49,9 +49,8 @@ Here are some photos during the industry talk:<br>
 *Poster of Industry Talk 2* 
 <br>
 
-![9a8d4f33-8ab8-458a-b869-af4cc140740b](https://github.com/user-attachments/assets/ed39657b-4870-4078-b8f2-be975cb7525b) <br>
-
-![9a9abcea-5316-4897-91ee-cc8123299e9a](https://github.com/user-attachments/assets/a2e602df-d16b-435a-b150-3dc9ec43e97b)<br>
+![9d98b016-6c4a-4574-a65d-535dc4b23d0b](https://github.com/user-attachments/assets/d85b4eac-ba31-4285-bfff-7c4413677534)<br>
+![65ee8ff7-2c13-4048-94ec-55f9bf277440](https://github.com/user-attachments/assets/db410a2a-b71c-4d15-a37a-4fabac75208f)<br>
 *Group photo of future data engineers*
 
 ---
