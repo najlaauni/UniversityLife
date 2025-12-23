@@ -14,7 +14,7 @@ This industry talk, titled "Project Management & System Development," was delive
   Standardizes the whole process of application software development including definition, design, testing, and implementation instead of just coding.<br>
 - **Project Management (PM) Methodologies** <br>
   Controls complexity and ensures team synergy through structured approaches like Waterfall or Agile to keep projects on track and within budget.<br>
-- Agentic Coding & System Architecture <br>
+- **Agentic Coding & System Architecture** <br>
   Transform the function of a developer from "Coder" to "System Architect" that deals with invisible AI agents to develop, test, and run sophisticated systems.<br>
 
 These core competencies are essential for avoiding the "FYP Trap" and achieving a success formula for future-ready graduates.
