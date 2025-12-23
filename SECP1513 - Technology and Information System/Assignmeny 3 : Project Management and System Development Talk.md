@@ -19,16 +19,6 @@ This industry talk, titled "Project Management & System Development," was delive
 
 These core competencies are essential for avoiding the "FYP Trap" and achieving a success formula for future-ready graduates.
 
-This industry talk was conducted by PPG, a global leader dedicated to safeguarding and beautifying the world. PPG’s global operations are supported by its Digital IT teams at the MY Technology Centre. The session highlighted three key pillars of PPG’s digital foundation:
-- SAP Centre of Excellence (CoE)<br>
-  Standardises global business processes through the deployment of the S/4HANA Enterprise Resource Planning system.<br>
-- IT Infrastructure & Vendor Management<br>
-  Secures and scales the critical network and computing environment with a focus on Cloud Architecture and WAN/LAN connectivity.<br>
-- Data Analytics Centre of Excellence (CoE)<br>
-  Uses cutting-edge SQL, Python, and Data Visualisation techniques to transform raw data into strategic business intelligence, are the three main pillars of this digital foundation.<br>
-
-These roles are crucial for maintaining operational excellence and bolstering PPG's worldwide reach. 
-
 ---
 
 ## 📝 Reflection
