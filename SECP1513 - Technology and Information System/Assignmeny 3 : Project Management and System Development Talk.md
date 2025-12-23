@@ -36,6 +36,12 @@ After the industry talk, my interest in mastering these core skills grew even st
 
 ---
 
+## 📎  Task After the Talk
+After the industry talk, we received a task to create an academic writing that should not exceed 3 pages based on the talk content.  <br>
+[Assignment 3 Report System Development.docx](https://github.com/user-attachments/files/24306722/Assignment.3.Report.System.Development.docx)
+
+---
+
 ## 📷 Photos
 Here are some photos during the industry talk:<br>
 
@@ -47,13 +53,6 @@ Here are some photos during the industry talk:<br>
 
 ![9a9abcea-5316-4897-91ee-cc8123299e9a](https://github.com/user-attachments/assets/a2e602df-d16b-435a-b150-3dc9ec43e97b)<br>
 *Group photo of future data engineers*
-
-
----
-
-## 📎  Task After the Talk
-After the industry talk, we received a task to create an academic writing that should not exceed 3 pages based on the talk content.  <br>
-[Assignment 3 Report System Development.docx](https://github.com/user-attachments/files/24306722/Assignment.3.Report.System.Development.docx)
 
 ---
 
