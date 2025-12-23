@@ -56,7 +56,7 @@ Here are some photos during the industry talk:<br>
 
 ---
 
-## ☁️ The Poster Of PPG Industry Talk
+## ☁️ The Academic Writing of The Industry Talk
 
 
 
