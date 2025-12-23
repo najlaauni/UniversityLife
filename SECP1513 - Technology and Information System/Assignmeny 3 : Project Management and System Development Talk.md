@@ -9,6 +9,16 @@
 
 ## 📌 Summary About the Talk
 
+This industry talk, titled "Project Management & System Development," was delivered by Tuan Hj. Abdul Alim. The session emphasized that system development is the core language of a future career in Computer Science and highlighted the transition toward an AI-driven industry. The presentation focused on three key pillars of building a professional foundation:
+- System Development Life Cycle (SDLC) <br>
+  Standardizes the whole process of application software development including definition, design, testing, and implementation instead of just coding.<br>
+- Project Management (PM) Methodologies <br>
+  Controls complexity and ensures team synergy through structured approaches like Waterfall or Agile to keep projects on track and within budget.<br>
+- Agentic Coding & System Architecture <br>
+  Transform the function of a developer from "Coder" to "System Architect" that deals with invisible AI agents to develop, test, and run sophisticated systems.<br>
+
+These core competencies are essential for avoiding the "FYP Trap" and achieving a success formula for future-ready graduates.
+
 This industry talk was conducted by PPG, a global leader dedicated to safeguarding and beautifying the world. PPG’s global operations are supported by its Digital IT teams at the MY Technology Centre. The session highlighted three key pillars of PPG’s digital foundation:
 - SAP Centre of Excellence (CoE)<br>
   Standardises global business processes through the deployment of the S/4HANA Enterprise Resource Planning system.<br>
