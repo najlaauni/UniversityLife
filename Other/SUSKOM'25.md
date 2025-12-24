@@ -31,7 +31,8 @@ SUSKOM'25 showed me that there is value in teamwork beyond the immediate influen
 ---
 
 ## 🔧 Suggestions for Improving Programme
-- Include hands-on quantum demos or beginner-friendly workshops so students can better understand how quantum computing and communication work in practice. <br>
+- Additional Training for Officials
+  Conducting a brief training or simulation session for referees and line judges before the event could increase confidence and ensure consistent decision-making. <br>
 - Provide clear career roadmaps showing the skills, courses, and pathways needed to enter the quantum technology field in ASEAN. <br>
 - Share follow-up materials such as slides, recorded talks, or beginner guides to help students continue learning after the summit. <br>
 
