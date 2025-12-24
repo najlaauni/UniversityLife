@@ -1,4 +1,4 @@
-# 🎤 ASEAN Quantum Summit 2025
+# 🎤 SUKAN SAINS KOMPUTER (SUSKOM) 2025
 
 **Date:** 11 December 2025  
 **Time:** 2:00pm - 5:00pm  
