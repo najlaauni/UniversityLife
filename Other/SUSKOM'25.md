@@ -7,6 +7,7 @@
 ## 📌 Summary About SUSKOM’25 (Sukan Sains Komputer)
 
 SUSKOM’25 is a yearly sports occasion performed by and for Computer Science students of Universiti Teknologi Malaysia (UTM), held from 19 to 21 December 2025. Through various competitive sports activities, the event aimed at promoting unity, sportsmanship, and collaboration among computing students from different faculties and batches. In addition to competition, SUSKOM’25 became a breeding ground for leadership, teamwork, and respect to be built in the diverse academic community.
+
 Being part of the SUSKOM’25 team, I was able to help with the event running by being a Line Judge during the badminton tournament. This job needed a lot of care, fairness, and accountability to ensure that the matches were held in a smooth and professional manner. The event brought out three main values:
 - Sportsmanship & Integrity<br>
   Promoting the honesty and fairness of students through rules and competition.<br>
@@ -14,6 +15,7 @@ Being part of the SUSKOM’25 team, I was able to help with the event running by
   Making a strong cooperation between the organizers, officials, and participants of different faculties and backgrounds.<br>
 - Community Engagement<br>
   Strong ties beyond the classroom through shared experiences, cooperation, and mutual support were formed.<br>
+  
 To sum up, SUSKOM’25 was not just a sports competition, but a community-driven event that showcased unity and professionalism among the Computer Science students and reflected their values.
 
 
