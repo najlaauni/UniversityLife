@@ -1,9 +1,5 @@
 # 🏸 SUKAN SAINS KOMPUTER (SUSKOM) 2025
 
-**Date:** 19 to 21 December 2025
-
----
-
 ## 📌 Summary About SUSKOM’25 (Sukan Sains Komputer)
 
 SUSKOM’25 is a yearly sports occasion performed by and for Computer Science students of Universiti Teknologi Malaysia (UTM), held from 19 to 21 December 2025. Through various competitive sports activities, the event aimed at promoting unity, sportsmanship, and collaboration among computing students from different faculties and batches. In addition to competition, SUSKOM’25 became a breeding ground for leadership, teamwork, and respect to be built in the diverse academic community.
