@@ -35,10 +35,11 @@ SUSKOM'25 showed me that there is value in teamwork beyond the immediate influen
 ## 📷 Photos
 Here are some photos during the summit:<br>
 
-![22b6665f-e416-4024-8698-723262e8057b](https://github.com/user-attachments/assets/2b1c0ad1-d3c2-4eff-9448-22a56422a3b6) <br>
+![3ab02c6a-b1d1-4df9-8a33-0a5d3c668f32](https://github.com/user-attachments/assets/04bd7264-6f9b-454f-9259-42b2c755134f) <br>
+![c50191ac-bdfd-4476-800e-63f2b34e5bc5](https://github.com/user-attachments/assets/c2650653-5619-4209-bc4f-bd5ceccf0ef8) <br>
+![a2e4344c-4035-4039-abca-33a2d0af9aa5](https://github.com/user-attachments/assets/a26d023c-39f2-43c1-8bc3-caee2bb7abe4) <br>
+![8460b100-a483-4e5d-9a5e-0d7ad854b4ba](https://github.com/user-attachments/assets/356b7f10-1dbd-4b5f-9c90-84f794b0224f) <br>
+![212162b5-f37c-4810-889b-56dfc5e3cd24](https://github.com/user-attachments/assets/3a5e4101-7f83-466b-a296-ed790326b51d) <br>
+![24d98017-9368-4f92-a9e4-1d2de5713f46](https://github.com/user-attachments/assets/1b7bf5ce-81f6-4331-8990-69081552f6aa) <br>
+![33b28c92-9d76-42f9-b3a4-74bb1a7c560e](https://github.com/user-attachments/assets/3cecc1b4-c2da-478f-b516-ea54b94f2803)
 
-![6c5f1c56-3e7c-4e44-9fc7-7e9c1050c336](https://github.com/user-attachments/assets/def187cf-cd45-4a65-9be0-d468336582cd) <br>
-
-![1281489f-0cc5-4316-9085-6f104750eb26](https://github.com/user-attachments/assets/d01b428d-6fef-4884-bfab-45f813dd150d) <br>
-
-![a067b2e6-b63e-4994-a75d-1c9397b3818b](https://github.com/user-attachments/assets/47e4535d-6f45-43cb-9a72-06f618f596fc) <br>
