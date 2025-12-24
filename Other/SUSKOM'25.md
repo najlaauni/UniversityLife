@@ -11,9 +11,9 @@ Being part of the SUSKOM’25 team, I was able to help with the event running by
 - Sportsmanship & Integrity
   Promoting the honesty and fairness of students through rules and competition.
 - Collaboration & Teamwork
-Making a strong cooperation between the organizers, officials, and participants of different faculties and backgrounds.
-•	Community Engagement
-Strong ties beyond the classroom through shared experiences, cooperation, and mutual support were formed.
+  Making a strong cooperation between the organizers, officials, and participants of different faculties and backgrounds.
+- Community Engagement
+  Strong ties beyond the classroom through shared experiences, cooperation, and mutual support were formed.
 To sum up, SUSKOM’25 was not just a sports competition, but a community-driven event that showcased unity and professionalism among the Computer Science students and reflected their values.
 
 
