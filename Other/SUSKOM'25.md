@@ -6,17 +6,16 @@
 
 ## 📌 Summary About SUSKOM’25 (Sukan Sains Komputer)
 
-The ASEAN Quantum Summit 2025 is aimed to be the primary major gathering dealing with quantum science and technology in Southeast Asia region as it will be the first conference of this type. The summit was a significant move to prepare the area for the quantum era as it gathered diverse attendees such as government representatives, scientists, industry partners, and more than 2,600 students. The summit takes place during the International Year of Quantum Science and Technology 2025 and it is consistent with the ASEAN Plan of Action on Science, Technology and Innovation (APASTI).
+SUSKOM’25 is a yearly sports occasion performed by and for Computer Science students of Universiti Teknologi Malaysia (UTM), held from 19–21 December 2025. Through various competitive sports activities, the event aimed at promoting unity, sportsmanship, and collaboration among computing students from different faculties and batches. In addition to competition, SUSKOM’25 became a breeding ground for leadership, teamwork, and respect to be built in the diverse academic community.
+Being part of the SUSKOM’25 team, I was able to help with the event running by being a Line Judge during the badminton tournament. This job needed a lot of care, fairness, and accountability to ensure that the matches were held in a smooth and professional manner. The event brought out three main values:
+- Sportsmanship & Integrity
+  Promoting the honesty and fairness of students through rules and competition.
+- Collaboration & Teamwork
+Making a strong cooperation between the organizers, officials, and participants of different faculties and backgrounds.
+•	Community Engagement
+Strong ties beyond the classroom through shared experiences, cooperation, and mutual support were formed.
+To sum up, SUSKOM’25 was not just a sports competition, but a community-driven event that showcased unity and professionalism among the Computer Science students and reflected their values.
 
-The summit brought to light some cornerstones of ASEAN's quantum growth:<br>
-- Quantum Research collaborations<br>
-There were new partnerships consisting of universities, research institutions, and commercial entities that comprised the signing of agreements intended for the areas of quantum computing, communication, and biology.<br>
-- Quantum Communication Infrastructure<br>
-The secure quantum communication links and the cross-border communication under the Johor–Singapore Special Economic Zone initiative were among the technologies presented by UTM.<br>
-- Education and Talent Development<br>
-The participation of more than 2,600 students is a sign of ASEAN's resolve in enhancing quantum literacy and nurturing a competent future workforce.<br>
-
-Through these measures, the convolution of efforts has implied a big step towards the positioning of ASEAN as an emerging world player in the quantum innovation arena.
 
 
 ---
