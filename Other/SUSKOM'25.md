@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Summary About the Talk
+## 📌 Summary About SUSKOM’25 (Sukan Sains Komputer)
 
 The ASEAN Quantum Summit 2025 is aimed to be the primary major gathering dealing with quantum science and technology in Southeast Asia region as it will be the first conference of this type. The summit was a significant move to prepare the area for the quantum era as it gathered diverse attendees such as government representatives, scientists, industry partners, and more than 2,600 students. The summit takes place during the International Year of Quantum Science and Technology 2025 and it is consistent with the ASEAN Plan of Action on Science, Technology and Innovation (APASTI).
 
