@@ -45,7 +45,7 @@ After the industry talk, we received a task to create an academic writing that s
 ## 📷 Photos
 Here are some photos during the industry talk:<br>
 
-<img width="449" height="494" alt="image" src="https://github.com/user-attachments/assets/96d9640c-1a90-4f2a-9112-77e25e6f5e34" /> <br>
+![3e8ff997-5fbd-4711-b6ce-96863a489f2a](https://github.com/user-attachments/assets/07df8387-22ff-4ae4-bc3e-6c886c4cfc0b) <br>
 *Poster of Industry Talk 2* 
 <br>
 
