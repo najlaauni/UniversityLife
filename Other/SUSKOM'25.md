@@ -18,17 +18,15 @@ Being part of the SUSKOM’25 team, I was able to help with the event running by
   
 To sum up, SUSKOM’25 was not just a sports competition, but a community-driven event that showcased unity and professionalism among the Computer Science students and reflected their values.
 
-
-
 ---
 
 ## 📝 Reflection
 
-Attending the ASEAN Quantum Summit 2025 as a first-year student was truly eye-opening for me. It gave me a clear understanding of how important quantum technology will be for the future of ASEAN, especially in areas like cybersecurity, communication, and advanced computing. I was amazed to see that all ASEAN Member States, together with international partners, are now investing seriously in building a shared quantum ecosystem. The summit also highlighted an important message for my own development: succeeding in the technology field requires more than just academic achievement. It also demands curiosity, continuous learning, hands-on experience, and the willingness to explore new, emerging fields like quantum science.
+To be a part of SUSKOM'25 as a crew member was an experience full of meaning and also very challenging since it took me out of my comfort zone. Being a Line Judge helped me see how even a supporting role is very important to the judging side of the event and the whole event running well. This experience helped me to understand that the qualities of responsibility, focus, and integrity are very critical not only in sports but also in professional life.
 
-Throughout this sessions, I learned how quantum communication, quantum computing, and quantum sensing are becoming foundational technologies for the next generation of digital infrastructure. The demonstrations of quantum-secure networks helped me understand how critical security and data protection will be in the future. Meanwhile, the research collaborations signed between universities and industry partners showed me that quantum development requires strong teamwork across countries, disciplines, and expertise. I also realised that quantum science is deeply connected to mathematics, physics, and data engineering fields I am already interested in, which made the summit even more meaningful to me.
+The whole event shone a light on the sportsmanship of the different faculties, races and academic backgrounds that were participating and this was one of the things that inspired me the most. The games might have been competitive but respect and teamwork were norms throughout. This made me stronger in my belief that winning is not necessarily the only measure of success, but rather, how persons behave, communicate and help each other out in tough times.
 
-After attending the summit, my interest in quantum technology grew much stronger because it is a field with tremendous potential and long-term impact. I believe this area will continue to expand rapidly in ASEAN, and being involved early could open many exciting opportunities for research, postgraduate studies, and future careers. The summit inspired me to strengthen my mathematical and technical foundation so that I can one day contribute to the development of quantum technologies in the region. Overall, I am grateful to UTM and all the organisers for giving students like me the chance to be part of such a significant event. This experience truly motivated me to keep improving myself and to explore how I can play a meaningful role in ASEAN’s quantum future!
+SUSKOM'25 showed me that there is value in teamwork beyond the immediate influence of the class. I found communicating and being flexible to be necessary skills when working with others towards a common goal. The whole process was a good reminder that the soft skills of a computer science student such as teamwork, fairness, and leadership are at par with the technical ones. Therefore, SUSKOM'25 was a marvelous learning experience that not only helped me grow personally but also made my university life richer.
 
 ---
 
