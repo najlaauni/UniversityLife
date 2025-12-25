@@ -56,6 +56,6 @@ Here are some photos during the industry talk:<br>
 ---
 
 ## ☁️ The Academic Writing of The Industry Talk
-
+[ASSIGNMENT 3](https://github.com/user-attachments/files/24338851/ASSIGNMENT.3.1.pdf)
 
 
