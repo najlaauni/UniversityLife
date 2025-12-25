@@ -1,5 +1,5 @@
 # 🔧 Assignment 2
-This repository contains my personal record of Assignment 2 (Section 02) for my coursework. The task for this assignment was to write a complete C++ program based on 4 sets that were given by the lecturer.
+This repository contains my personal record of Assignment 2 (Section 02) for my coursework. The task for this assignment was to write a complete C++ program based on 2 sets that were given by the lecturer.
 
 Date: 29 October 2025 until 3 November 2025  
 
@@ -7,7 +7,7 @@ Date: 29 October 2025 until 3 November 2025
 
 ## 📘 Task Description
 
-This assignment must be done in pairs which means a group consisting of 2 members. We got set 2 which needs to construct a flow chart that develops a Loan Calculator to estimate a monthly installment and help to plan finances. From set 2, we have been required to : <br>
+This assignment must be done in pairs which means a group consisting of 2 members. We got set 2 which needs to write a complete C++ program that develops a Loan Calculator to estimate a monthly installment and help to plan finances. From set 2, we have been required to : <br>
 - View and understand the provided output of the set I got 
 - Construct a flow chart that has the same output as a set that I got
 - Apply : <br>
