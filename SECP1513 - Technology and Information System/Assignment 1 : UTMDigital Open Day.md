@@ -32,8 +32,6 @@ We agree to cooperate responsibly as a team, complete all assigned tasks on time
 ---
 
 ## 🏫 Summary of the Visit
-UTMDigital Open Day Summary
-
 From November 28 to November 29, 2025, Dewan Seminar, and UTMDigital opened the doors to their yearly event called UTMDigital Open Day 2025, attended by nearly a hundred students who were interested in witnessing UTM's digital transformation. The activities encompassed demonstrations, hands-on experiences, and discussions that showcased how digital innovation was used in the fields of academics and administration at the Universiti Teknologi Malaysia facility.
 
 The programme comprised four key talks that reflected the core components of UTMDigital’s digital ecosystem:
