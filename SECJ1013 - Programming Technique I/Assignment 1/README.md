@@ -8,7 +8,7 @@ Date: 29 October 2025 until 3 November 2025
 ## 📘 Task Description
 
 This assignment must be done in pairs which means a group consisting of 2 members. We got set 2 which needs to construct a flow chart that develops a Loan Calculator to estimate a monthly installment and help to plan finances. From set 2, we have been required to : <br>
-- View and understand the provided output of the set we got 
+- View and understand the provided output of the set that we got 
 - Construct a flow chart that has the same output as a set that we got
 - Apply : <br>
   a) Branching/selection (if..else)<br>
