@@ -34,6 +34,10 @@ Here are some photos from our group meeting :
 
 <br> *Meeting 2*  <br>
 
+<img width="613" height="399" alt="image" src="https://github.com/user-attachments/assets/d83bc5bd-7212-4f7b-bb51-66a46db235ed" />
+
+<br> *Meeting 3*  <br>
+
 ---
 
 📁 **View the progress of the video here:**  [Vlog Materials](https://drive.google.com/drive/folders/1DHIjzpqgfz-e7zbxn4nbgMVvghhcwsbm)
