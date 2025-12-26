@@ -2,7 +2,7 @@
 This repository contains my personal record of Lab Exercise 2 (Section 02) for my coursework. The task for this lab exercise was to write a complete C++ program based on 4 sets that were given by the lecturer.
 
 Date: 11 November 2025  
-Time: 12:00am - 12.50am  
+Time: 12:00pm - 12.50pm  
 Venue: MPK10, N28
 
 ---
