@@ -18,16 +18,14 @@
 - To develop teamwork, communication, and problem-solving skills throughout the learning process.
 - To maintain originality, integrity, and responsibility in all assigned tasks.
 
-
 **Vision:**  
 To develop a digitally driven UTM community that is motivated by creativity, teamwork, and the efficient application of technology in order to create a more intelligent and sustainable future.
-<br>
+
 
 ---
 
 ## 🧾 Group Agreement 
 We agree to cooperate responsibly as a team, complete all assigned tasks on time, respect each other’s ideas and ensure all content is original and free from plagiarism.  
-<br>
 
 ---
 
