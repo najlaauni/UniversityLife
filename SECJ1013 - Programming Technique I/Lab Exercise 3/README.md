@@ -1,4 +1,4 @@
-# 🔧 Lab Exercise 1
+# 🔧 Lab Exercise 3
 This repository contains my personal record of Lab Exercise 3 (Section 02) for my coursework. The task for this lab exercise was to write a complete C++ program based on the following question.
 
 Date: 17 October 2025  
@@ -13,7 +13,7 @@ From the question, I need to write a complete C++ program that helps the Ministr
 - View and understand the provided output of the question 
 - Construct a complete C++ program that has the same output as a question
 - Save the file using the required naming format  
-- Submit the flowchart through the eLearning platform
+- Submit the a complete C++ program through the eLearning platform
 
 ---
 
