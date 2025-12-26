@@ -10,7 +10,6 @@
 - Practiced handling and installing components safely and accurately 
 - Reassembled the PC and ensured it could boot successfully  
 - Completed a quiz to test our understanding based on the hands-on session
-<br>
 
 ---
 
@@ -18,7 +17,6 @@
 - Gained a clear understanding PC components and their functions  
 - Improved teamwork and communication skills  
 - Applied theoretical knowledge to real-world practice  
-<br>
 
 ---
 
@@ -28,8 +26,6 @@ As a first-year student, the PC Assembly and Disassembly Lab Session was a truly
 During the Lab Session, we need to work together as a group of six to practice disassembling and reassembling the PC. We took turns handling different components, checking connections, and ensuring the system could boot properly after reassembly. It felt exciting to finally see the lecture material we usually learn from slides being turned into such a real hands-on activity.
 
 Besides gaining technical knowledge through this session, I discovered that I am the kind of person who likes to touch, inspect, and install each part by myself to get the full picture of how the components work together to build a system. This session also helped strengthen teamwork, communication, and patience, especially when sharing tools and coordinating tasks.  I noticed that my work with hardware had become more confident and comfortable. Moreover, I am thankful to our lecturer, Dr. Aryati bt Bakri, for providing us with this chance to explore computer hardware hands-on and deepen our understanding of how a PC works. To me, this lab session was an impactful and unforgettable experience for me, and has motivated me to continue improving my technical skills as I continue my journey in the tech field!
-
-<br>
 
 ---
 ## 🔧 Improvement Suggestions
