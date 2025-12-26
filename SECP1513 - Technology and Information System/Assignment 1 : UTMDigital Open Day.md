@@ -58,7 +58,6 @@ Besides gaining new knowledge through these tasks, I realised how much I enjoy p
 
 ## 🔧 Improvement Suggestions
 - Provide better signage or a digital map of the booths so students can plan their visit and not miss important sections.
-<br>
 
 ---
 
@@ -80,6 +79,4 @@ Here are some photos during the visit to UTMDigital Open Day:
 ---
 
 📁 **View the full video here:**  [Vlog Materials](https://drive.google.com/drive/folders/1SkGQbFjlvI7ACSl7QvSyfCN7bgdUimnS?usp=sharing)
-<br>
 
----
