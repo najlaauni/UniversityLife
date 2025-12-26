@@ -37,12 +37,11 @@ UTMDigital Open Day Summary
 From November 28 to November 29, 2025, Dewan Seminar, and UTMDigital opened the doors to their yearly event called UTMDigital Open Day 2025, attended by nearly a hundred students who were interested in witnessing UTM's digital transformation. The activities encompassed demonstrations, hands-on experiences, and discussions that showcased how digital innovation was used in the fields of academics and administration at the Universiti Teknologi Malaysia facility.
 
 The programme comprised four key talks that reflected the core components of UTMDigital’s digital ecosystem:
-- **Information System**
+- **Information System**<br>
 Presented by Hj. Madradzi Bin Muhamad from the Division of Digital Innovation (DDI), this session focused on the role of information systems in managing student data, academic records, and digital services. Emphasis was placed on system integration and the importance of good system design to enhance user experience and service efficiency.
-- **Digital Infrastructure**
+- **Digital Infrastructure**<br>
 Delivered by Mohd Hafiz Muhammad Nasir from the Division of Digital Architecture (DDA), this talk highlighted UTMDigital’s continuous efforts in strengthening digital infrastructure. The session covered the advancement of network systems and infrastructure development to ensure scalability, reliability, and secure digital operations across the university.
-
-Data Engineering
+- **Data Engineering**<br>
 This session led by Zahari Supene of DDA, dealt with the basics of data engineering and presented data pipelines, data integrity, and employment prospects in the domain as the core points. The lecture gave a clearer picture of the industry expectations and also provided valuable tips for students who are going to take up data-related positions in future.
 
 System Development
