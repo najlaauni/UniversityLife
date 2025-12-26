@@ -41,7 +41,7 @@ Presented by Hj. Madradzi Bin Muhamad from the Division of Digital Innovation (D
 Delivered by Mohd Hafiz Muhammad Nasir from the Division of Digital Architecture (DDA), this talk highlighted UTMDigital’s continuous efforts in strengthening digital infrastructure. The session covered the advancement of network systems and infrastructure development to ensure scalability, reliability, and secure digital operations across the university.
 - **Data Engineering**<br>
 This session led by Zahari Supene of DDA, dealt with the basics of data engineering and presented data pipelines, data integrity, and employment prospects in the domain as the core points. The lecture gave a clearer picture of the industry expectations and also provided valuable tips for students who are going to take up data-related positions in future.
-- **System Development**
+- **System Development**<br>
 Helmee Bin Yaacob from DDI discussed system development practices at UTM, including platforms such as the myUTM Portal and UTMSmart. The session covered project management approaches, including Predictive and Adaptive methods, Agile Biz-DevOps methodology, and best practices adopted by the Project Management Office (PMO) to deliver effective digital solutions.
 
 The four areas mentioned above are a part of UTMDigital’s integrated strategy for digital transformation, which consists of the use of information systems, infrastructure, data engineering, and system development to help UTM achieve its strategic objectives. Open Day was a great way to get firsthand knowledge of digital projects in the real world and it also underscored the role of digital innovation as a factor that will influence the future of higher education.
