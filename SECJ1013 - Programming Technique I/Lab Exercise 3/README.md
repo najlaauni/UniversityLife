@@ -1,17 +1,17 @@
 # 🔧 Lab Exercise 1
-This repository contains my personal record of Lab Exercise 1 (Section 02) for my coursework. The task for this lab exercise was to construct a flow chart based on 4 sets that were given by the lecturer.
+This repository contains my personal record of Lab Exercise 3 (Section 02) for my coursework. The task for this lab exercise was to write a complete C++ program based on the following question.
 
 Date: 17 October 2025  
-Time: 12:00am - 12.50am  
-Venue: Online Class
+Time: 12:00pm - 12.50pm  
+Venue: MPK6, N28
 
 ---
 
 ## 📘 Task Description
 
-I chose set 1 which needs to construct a flow chart that reads an integer number and then calculates the sum of its digits. After that, identify whether the sum of digits for the integer is a multiple of 3, 4, and/or 5. Also, I should use operator divide (/) and modulus (%) and also post-test loop to answer this question. From set 1, I have been required to : <br>
-- View and understand the provided output of the set I chose 
-- Construct a flow chart that has the same output as a set that I chose
+From the question, I need to write a complete C++ program that helps the Ministry of Health (MOH) to determine the status of a zone by calculating the number of active cases for COVID 19. Also, I have been required to : <br>
+- View and understand the provided output of the question 
+- Construct a complete C++ program that has the same output as a question
 - Save the file using the required naming format  
 - Submit the flowchart through the eLearning platform
 
