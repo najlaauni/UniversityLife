@@ -17,6 +17,24 @@ I chose set 1 which needs to construct a flow chart that reads an integer number
 
 ---
 
+## 🪞 Reflection
+Lab Exercise 1 was my first encounter with the idea of converting a problem statement into a clear and logical flowchart. While making a flowchart for the summation of digits of an integer, I discovered the practical use of the division (/) and modulus (%) operations to work out numerical problems.
+
+This exercise made me more conversant with the concept of post-test loops as the loop has to run at least one time to deal with the number's each digit. In addition, the task of determining if the sum of digits is a multiple of 3, 4, or 5 further developed my logical thinking and, consequently, my skill of applying conditional statements in problem-solving.
+
+Doing this lab exercise in a fixed time during an online class has worked on my time management and also improved my step-by-step thinking. In brief, the lab exercise has boosted my confidence when it comes to flowchart design and has further cemented the role of structured logic as a foundation in the programming world.
+
+---
+
+## 💡 Suggestions for Improvement
+For future lab exercises, providing more sample outputs or step-by-step walkthroughs before the task begins would help students better understand the expected logic and flowchart structure.
+
+Additionally, allowing a short review or discussion session after submission could help students reflect on common mistakes and improve their understanding of loops and conditions.
+
+Lastly, introducing recommended digital tools for flowchart creation could improve clarity and consistency, especially for online lab sessions where submissions are made digitally.
+
+---
+
 ## 🎯 Purpose of This Repository
 This repository will be employed to:  
 - Keep and record details of lab exercises  
