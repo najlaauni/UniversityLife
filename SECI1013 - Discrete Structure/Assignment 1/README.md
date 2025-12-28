@@ -30,6 +30,15 @@ Working in a group allowed me not only to express my thoughts to the rest of the
 
 ---
 
+## 💡 Suggestions for Improvement
+For future assignments, I suggest that more guided examples be provided before the task is given, especially for topics involving logical proofs and truth tables. It would provide an easier way for students to first get the hang of the expected structure and method of answering before they actually try the more difficult questions.
+
+At the same time, more time for group discussions in class would be a good opportunity for students to literally remove uncertainties and show their different ways of reasoning under the teacher's supervision. This practice has the potential to make the entire class understanding better and fewer mistakes in proofs.
+
+Finally, students would not only be able but also be encouraged to submit their work both in digital form and in handwriting which might be an advantage for them in terms of presenting their answers in a more tidy way and reviewing their work more proficiently. Additionally, it would also be a plus point in terms of easily storing and referring to previous assignments for the purpose of revision.
+
+---
+
 ## 🎯 Purpose of This Repository
 This repository will be employed to:  
 - Keep and record details of assignments  
