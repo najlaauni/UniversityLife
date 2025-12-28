@@ -2,6 +2,7 @@
 
 **Group Name:** DataSynergy <br>
 **Date:** 28 & 29 October 2025  
+**Location:** Dewan Seminar, UTMDigital
 
 |Members|Roles|
 |------|--------|
