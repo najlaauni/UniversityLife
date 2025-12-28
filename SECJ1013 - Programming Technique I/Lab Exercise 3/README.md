@@ -1,8 +1,8 @@
 # 🔧 Lab Exercise 3
 This repository contains my personal record of Lab Exercise 3 (Section 02) for my coursework. The task for this lab exercise was to write a complete C++ program based on the following question.
 
-Date: 17 October 2025  
-Time: 12:00pm - 12.50pm  
+Date: 19 December 2025  
+Time: 11:00pm - 11.50pm  
 Venue: MPK6, N28
 
 ---
