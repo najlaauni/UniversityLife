@@ -21,6 +21,15 @@ This assignment must be done in a group consisting of 3 or 4 members. We need to
 
 ---
 
+## 🪞 Reflection
+By finishing Assignment 1 on Set Theory and Logic, I cleared my way through the fog of understanding the most important concepts that are the basis of discrete mathematics. The activities of going through sets, proving identities of sets via the laws, and applying the formulas in solving the problems were the areas that I got the most for my logical and mathematical reasoning skill.
+
+A very challenging aspect of the task was to demonstrate the truth of the assertions and to disclose all the provided laws, thus demanding of me a meticulous and methodical procedure. However, the challenge developed my problem-solving discipline and patience with detail. The activity of constructing truth tables for the verification of the logical equivalence of compound propositions was one way to grasp better the working together of the logical operators and the formal justification of the conclusions.
+
+Working in a group allowed me not only to express my thoughts to the rest of the team but also to consider the issue from various angles. The teamwork improved my Communicating skills and also provided me with the experience of learning from others without giving up my responsibility of understanding the solutions. All in all, this assignment brought up my self-assurance in dealing with logical proofs and set-related problems. It also made me realize the necessity of being strong in the fundamentals as these concepts would be the key in unlocking the door to more advanced topics in future courses.
+
+---
+
 ## 🎯 Purpose of This Repository
 This repository will be employed to:  
 - Keep and record details of assignments  
