@@ -19,6 +19,24 @@ This assignment must be done in pairs which means a group consisting of 2 member
 
 ---
 
+## 🪞 Reflection
+As part of Assignment 2, I had to write a complete C++ program for a Loan Calculator, which was a great way for me to connect algorithm design with programming. Besides that, I learned how to code a logic through the process of creating a working C++ application out of the output requirements given.
+
+This task not only confirmed my understanding of C++ conditions, loops, and user-defined functions, but also expanded it. The application could use different ways of expressing the same thing through if– else statements, and the loops made it possible to calculate over and over as needed, which was great! Works to my advantage that I created several user-defined functions besides the main one because I got the chance of realizing the significance of modular programming and code reuse which meant that the program was readable and maintainable in the long run.
+
+The partnership atmosphere was great as it made communication and discussion of problems possible, especially when it came to the debugging of errors and program logic improvement. From such a course, I also got the chance of gaining debugging, logical reasoning, and structured C++ coding skills. Be it as it may, this mission gave me more assurance in creating full programs capable of solving real-life problems.
+
+---
+
+## 💡 Suggestions for Improvement
+In upcoming tasks, the provision of input and output formats in a clearer way would be really useful and this would minimize misunderstandings and also guarantee that the programs give the same results.
+
+Furthermore, a code review or feedback session could be introduced before the final submission to help students recognize logic or syntax mistakes and thus, student's coding practices could be improved.
+
+Moreover, the use of version control systems, e.g., GitHub, for submitting or monitoring progress could be allowed or even promoted as it would enable students to control their code more professionally and learn through practice, a skill that is in demand in the industry.
+
+---
+
 ## 🎯 Purpose of This Repository
 This repository will be employed to:  
 - Keep and record details of assignments 
