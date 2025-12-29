@@ -29,6 +29,16 @@ In conclusion, the assignment was a hard one but it still was a good practice fo
 
 ---
 
+## 💡 Suggestions for Improvement
+- Provide clearer guidelines or sample posters to help students better understand the expected academic layout and content depth.
+- Offer a short consultation or feedback session before final submission to help groups refine their findings and poster design.
+- Encourage the use of more diverse academic sources (journals, reports, and case studies) to strengthen the literature review.
+- Allow a brief rehearsal or mock presentation session to help students gain confidence and improve presentation delivery.
+- Improve time management within the group by setting internal deadlines for each stage of the project.
+- Provide clearer guidelines or sample posters to help students better understand the expected academic layout and content depth.
+
+---
+
 ## 🔖 Task
 Click [here](https://github.com/user-attachments/files/23694725/2.a.Tugasan.kajian.kes_Poster.1.docx) to view the task ! >⩊<
 <br>
