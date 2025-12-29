@@ -1,5 +1,9 @@
 # 📹 Video Public Service Announcement (PSA)
 
+## 🚀 Summary
+This Public Service Announcement (PSA) project was a chance to video the message of integrity and anti-corruption values through a collaborative effort of my group. As first-year students, we had to go through several steps like brainstorming, writing the script, assigning the roles, shooting, and post-production. Despite the difficulties we encountered like getting everyone to work at the same time, finding the right spots, and ensuring good quality audio and video, we still succeeded by sharing the work according to the strengths of each team member. The main motive for my participation in such a project was to obtain hands-on experience in teamwork, communication, and media production.
+
+---
 
 ## 📑 Video Script
 The link [here](https://docs.google.com/document/d/1RlRtoxsn96lyrwNrifzmKPbpuYqNoJVEXCqRtoXFESk/edit?tab=t.0) to view our storylines & actor's lines ! >⩊<
