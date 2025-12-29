@@ -2,7 +2,7 @@
 👩‍🏫 Lecturer: Mr. Ahmad Fariz bin Ali<br>
 🏫 Section: 02  
 
-This course introduces the basic principles of digital systems and logic design. I learned how computers process information using logic gates, circuits and binary  The fundamental tools such as boolean algebra and logic gates are helpful to design and analyze digital circuit systems.
+This course introduces the basic principles of digital systems and logic design. I learned how computers process information using logic gates, circuits and binary.  The fundamental tools such as boolean algebra and logic gates are helpful to design and analyze digital circuit systems.
 <br>
 
 ## 🧩 Topics Covered
