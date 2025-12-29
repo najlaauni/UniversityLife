@@ -21,6 +21,15 @@ To sum up, the video project not only solidified my rightful understanding of co
 
 ---
 
+## 💡 Suggestions for Improvement (Points)
+- Provide clearer guidelines or sample PSA videos to help students better understand expectations and video standards.
+- Allocate a longer project duration to reduce time pressure during filming and editing.
+- Offer a short workshop or briefing on basic video recording and editing techniques.
+- Allow interim feedback from the lecturer before final submission to improve video quality.
+- Encourage access to basic recording equipment or quiet recording spaces to improve audio clarity.
+
+---
+
 ## 🔖 Task
 Click [here](https://github.com/user-attachments/files/23694663/3.a.Arahan.video.PSA.docx) to view the task ! >⩊<
 <br>
