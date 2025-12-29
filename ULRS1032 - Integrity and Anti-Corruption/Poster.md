@@ -1,5 +1,10 @@
 # 📰 TUGASAN POSTER KAJIAN KES 
 
+## 📝 Summary
+This poster case study assignment (worth 40%) requires students to work in groups of six to eight members to identify and analyse a current issue related to integrity and corruption. Each group must conduct a case study using either interviews or surveys, limited strictly to students who are currently enrolled in the course. Groups are required to choose different issues from one another to ensure originality. The poster of an academic type having the dimensions of A2 will be the final product which is going to be submitted in the form of a soft copy by the end of the tenth week. The best poster belonging to every section will get the chance of being printed and exhibited during Integrity Week. The content of the poster has to be the following: an introduction consisting of background, chronology, critical incidents, and objectives; a literature review covering the concepts of integrity and corruption with local and global comparisons; the methodology section describing the respondents and the data collection method; findings and discussion; conclusion and recommendations; and a reference list. The poster must be based on facts, backed by academic citations, and clearly presented on a single A2 page.
+
+---
+
 ## 🔗 Methodology - Google Form
 Survey method via google forms. A total of 101 respondents in the country of students who take the subject of integrity and anti-corruption. <br>
 Focus of questions: <br>
