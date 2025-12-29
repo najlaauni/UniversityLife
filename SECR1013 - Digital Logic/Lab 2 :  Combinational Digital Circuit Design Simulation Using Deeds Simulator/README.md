@@ -46,5 +46,13 @@ Besides gaining technical knowledge in software simulation, this lab helped me c
 
 ---
 
+## 💡 Suggestions for Improvement
+- Provide a short introductory tutorial or demo on using the Deeds Simulator before do the lab.
+- Include more guided examples for K-map simplification, especially for larger or more complex input combinations.
+- Alocate more time for verification and discussion after simulation.
+- Provide additional practice problems or optional extension tasks using real-world scenarios.
+
+---
+
 ## 📎 File 
 Click [here](https://github.com/user-attachments/files/24342265/Lab.2.3.docx) to view Lab 2 Handout  
