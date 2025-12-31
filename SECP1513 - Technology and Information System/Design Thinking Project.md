@@ -1,59 +1,48 @@
-# 🎤 Project Management and System Development Talk
+# 🚀 Design Thinking Project
 
-**Date:** 18 December 2025  
-**Time:** 2:00pm - 4:00pm  
-**Venue:** Hyflex Classroom, N28A  
+## 📌 Summary About Design Thinking Project
 
-
----
-
-## 📌 Summary About the Talk
-
-This industry talk, titled "Project Management & System Development", was delivered by Tuan Hj. Abdul Alim. The session emphasized that system development is the core language of a future career in Computer Science and highlighted the transition toward an AI-driven industry. The presentation focused on three key pillars of building a professional foundation:
-- **System Development Life Cycle (SDLC)** <br>
-  Standardizes the whole process of application software development including definition, design, testing, and implementation instead of just coding.<br>
-- **Project Management (PM) Methodologies** <br>
-  Controls complexity and ensures team synergy through structured approaches like Waterfall or Agile to keep projects on track and within budget.<br>
-- **Agentic Coding & System Architecture** <br>
-  Transform the function of a developer from "Coder" to "System Architect" that deals with invisible AI agents to develop, test, and run sophisticated systems.<br>
-
-These core competencies are essential for avoiding the "FYP Trap" and achieving a success formula for future-ready graduates.
+The Design thinking project called "CampusSpot: Smart Parking on Campus" was a product of the TIS (SECP1513) course. The project targeted the UTM students and staff's parking and traffic problems especially during peak hours. The team used the Design Thinking process to develop a solution that is both practical and user-friendly, hence facilitating campus mobility and time management.<br>
+The project was executed through five phases which mirrored the five stages of Design Thinking:<br>
+**Empathy** - It was dedicated to uncovering the actual user issues through surveys and interviews with students and lecturers that had been through parking problems on campus and knew about them.<br>
+**Define** - The gathered information was combined to pinpoint very accurately the main problems like not having access to real-time parking information, traffic jams, places where it was not safe to park, and bad time management.<br>
+**Ideate** - Brainstorming sessions were held to come up with various solution ideas, and then they were assessed based on their feasibility, accessibility, and user impact, leading to the choice of a mobile application for smart parking.<br>
+**Prototype** - The CampusSpot app went through developing a working prototype with the help of digital design software, which showcased real-time parking availability, smart navigation, traffic flow tracking, and notification alerting features, and more.<br>
+**Test** - The user testing and demonstrations were performed to get feedback, confirm acceptability, and measure the solution's capability of actually dealing with the campus parking problems.<br>
+In conclusion, the project was a reflection of how design thinking application could be the way of handling the real problems by making them structured, thus the technology-driven solutions that are based on the user needs were the resultant.'
 
 ---
 
 ## 📝 Reflection
-Attending the industry talk by Tuan Hj. Abdul Alim as a first-year student was genuinely eye-opening for me.  I was able to have a very distinct notion that System Development is not merely a subject matter of the book, but the main language of my future profession. The lecture transmitted an important message regarding professional growth that was honestly in line with my thoughts: today's success is in a "New Success Formula" composed of 40% Coding & AI and 60% System and Project Management skills, thus confirming my urgency to acquire a practical architectural experience right away.
+The Design Thinking project participation turned out to be a significant and fruitful experience for me as a first-year student of the Faculty of Computing. I was very pleasantly surprised to find in this project that a solution to a problem related to computer science is not necessarily the result of a technical process but simply can be a matter of fully understanding the users, recognizing the real needs of the user and coming up with a solution that has an actual impact.
 
-At the time of SDLC presentation, I came to the conclusion that the successful software projects basically consist of the five main areas: planning, analysis, design, implementation, and maintenance. The PM discussion on the other hand, showed how much of an impact methods like Agile and Waterfall have on the management of chaos and the communication between teams that are located in different places around the globe. In addition, the agentic coding section affirmed that the AI agents are taking over the coding field, and I need to change my role from "Coder" to "System Architect" who controls the AI that does the system's building. Through those parts of the presentations, I not only learned but also started to compare and value how far apart and yet so close all the tech jobs are from Data Engineering to Network Security.
+Listening to the users during the Empathy and Define phases, I realized myself that it was critical, as the problems were already going to be solved. I the users actively participating in the process, and auditing the qualitative data very meticulously before going on with the solution, so to make them feel and actually be a part of the project. The research through surveys and interviews made me realize that the parking problem on campus is not only an inconvenience but also a drain that impairs people’s health and, hence, the quality of life, e.g. through stress, late arrivals to meetings and/or classes, and low productivity in general. This phase helped me quite a lot in developing the skill of putting myself in others' shoes rather than in the developer's shoes.
 
-After the industry talk, my interest in mastering these core skills grew even stronger because the presentation exposed the "FYP Trap" warning me not to wait until my final year to understand complete system building. I believe this field will continue to grow as we enter the age of autonomous developers, and mastering these frameworks will give me a valuable pathway for my future career. Currently, my goal is to gain complete control over these technical and managerial layers, thus making it possible for me to create significant value globally. In general, I want to thank Tuan Hj. Abdul Alim for allowing me to see the computer science journey from a new perspective. The lecture was a big encouragement for me to pursue my self-improvement continually and to realize that secure and reliable systems are established on the principles of secure design architecture.
+The Ideate and Prototype phases presented me with opportunities to practice the co-solving of problems and the use of imagination. Among other things, I learned how to give a lot of ideas, weigh the different options rationally, and finally, turn the vague notions into a real, physical product, that is, a prototype. The whole process of creating CampusSpot opened my eyes to the fact that all the aspects of a system, i.e. features, user interface design, and functionality, should be in harmony with one another in order to provide the user with a seamless experience.
 
----
-
-## 🔧 Suggestions for Improving the Talk
-- Allocate more time for Q&A so students can clarify doubts and learn directly from industry professionals. <br>
-- Provide follow-up resources such as slides so students can continue learning after the session.
+During the Testing phase, I came to see that criticism is the mother of improvement. Watching the users’ interaction with the prototype made me realize that everybody has to go through the refinement process, even good ideas. All things considered, this project had a great impact on the enhancement of my teamwork, communication, critical thinking, and problem-solving skills. Moreover, it amplified my ambition to become a data engineer in the future, as I desire to be working with data-centric and user-centric systems, which is a new trend in the industry.
 
 ---
 
-## 📎  Task After the Talk
-After the industry talk, we received a task to create an academic writing that should not exceed 3 pages based on the talk content.  <br>
-[Assignment 3 Report System Development.docx](https://github.com/user-attachments/files/24306722/Assignment.3.Report.System.Development.docx)
+## 🔧 Suggestions for Improvement
+- Allocate more time for user testing with a larger and more diverse group of users to gather deeper insights and improve system accuracy. <br>
+- Integrate real-time campus data sources, such as actual traffic sensors or parking systems, to enhance the realism and reliability of the prototype. <br>
+- Provide clearer system flow diagrams and technical architecture to better illustrate how data is collected, processed, and displayed within the application. <br>
+- Include additional accessibility features, such as voice navigation or enhanced support for disabled users, to make the system more inclusive. 
 
 ---
 
-## 📷 Photos
-Here are some photos during the industry talk:<br>
-
-![3e8ff997-5fbd-4711-b6ce-96863a489f2a](https://github.com/user-attachments/assets/07df8387-22ff-4ae4-bc3e-6c886c4cfc0b) <br>
-*Poster of Industry Talk 2* 
-<br>
-
-![9d98b016-6c4a-4574-a65d-535dc4b23d0b](https://github.com/user-attachments/assets/d85b4eac-ba31-4285-bfff-7c4413677534)<br>
-![65ee8ff7-2c13-4048-94ec-55f9bf277440](https://github.com/user-attachments/assets/db410a2a-b71c-4d15-a37a-4fabac75208f)<br>
-*Group photo of future data engineers*
+## 📎 Task 
+Click [here](https://github.com/user-attachments/files/24390117/Design.Thinking.Project.2526.docx) to see the task !!
 
 ---
 
-## ☁️ The Academic Writing of The Industry Talk
-[ASSIGNMENT 3](https://github.com/user-attachments/files/24338851/ASSIGNMENT.3.1.pdf)
+## ☁️ Our Project
+
+|Materials|Link|
+|---|---|
+|Report|[View](https://github.com/user-attachments/files/24390120/DESIGN.THINKING.GROUP6.pdf)|
+|Video|[View](https://youtu.be/L8OORM-LJPc?si=i3AjkzT-zcsuvo_s)|
+|Google Form|[View](https://forms.gle/tNshG4Qzyk2MDrgY7)|
+|Collected Data|[View](https://docs.google.com/spreadsheets/d/19xM-cjD9jRAIBf0OsdzbHPo9xMAWfpMdMr9bbcpc35A/edit?usp=sharing)|
+|Prototype|[View](ttps://github.com/user-attachments/files/24390183/Park.Easy.1.pdf)|
