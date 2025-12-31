@@ -47,4 +47,4 @@ Click [here](https://github.com/user-attachments/files/24390117/Design.Thinking.
 |Video|[View](https://youtu.be/L8OORM-LJPc?si=i3AjkzT-zcsuvo_s)|
 |Google Form|[View](https://forms.gle/tNshG4Qzyk2MDrgY7)|
 |Collected Data|[View](https://docs.google.com/spreadsheets/d/19xM-cjD9jRAIBf0OsdzbHPo9xMAWfpMdMr9bbcpc35A/edit?usp=sharing)|
-|Prototype|[View](ttps://github.com/user-attachments/files/24390183/Park.Easy.1.pdf)|
+|Prototype|[View](https://github.com/user-attachments/files/24390183/Park.Easy.1.pdf)|
