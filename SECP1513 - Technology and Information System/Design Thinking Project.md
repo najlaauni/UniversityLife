@@ -1,6 +1,6 @@
 # 🚀 Design Thinking Project
 
-## 📌 Summary About Design Thinking Project
+## 📌 Summary 
 
 The Design thinking project called "CampusSpot: Smart Parking on Campus" was a product of the TIS (SECP1513) course. The project targeted the UTM students and staff's parking and traffic problems especially during peak hours. The team used the Design Thinking process to develop a solution that is both practical and user-friendly, hence facilitating campus mobility and time management.<br>
 
