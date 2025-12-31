@@ -3,12 +3,14 @@
 ## 📌 Summary About Design Thinking Project
 
 The Design thinking project called "CampusSpot: Smart Parking on Campus" was a product of the TIS (SECP1513) course. The project targeted the UTM students and staff's parking and traffic problems especially during peak hours. The team used the Design Thinking process to develop a solution that is both practical and user-friendly, hence facilitating campus mobility and time management.<br>
+
 The project was executed through five phases which mirrored the five stages of Design Thinking:<br>
 **Empathy** - It was dedicated to uncovering the actual user issues through surveys and interviews with students and lecturers that had been through parking problems on campus and knew about them.<br>
 **Define** - The gathered information was combined to pinpoint very accurately the main problems like not having access to real-time parking information, traffic jams, places where it was not safe to park, and bad time management.<br>
 **Ideate** - Brainstorming sessions were held to come up with various solution ideas, and then they were assessed based on their feasibility, accessibility, and user impact, leading to the choice of a mobile application for smart parking.<br>
 **Prototype** - The CampusSpot app went through developing a working prototype with the help of digital design software, which showcased real-time parking availability, smart navigation, traffic flow tracking, and notification alerting features, and more.<br>
 **Test** - The user testing and demonstrations were performed to get feedback, confirm acceptability, and measure the solution's capability of actually dealing with the campus parking problems.<br>
+
 In conclusion, the project was a reflection of how design thinking application could be the way of handling the real problems by making them structured, thus the technology-driven solutions that are based on the user needs were the resultant.'
 
 ---
