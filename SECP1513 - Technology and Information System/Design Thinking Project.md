@@ -11,7 +11,7 @@ The project was executed through five phases which mirrored the five stages of D
 **Prototype** - The CampusSpot app went through developing a working prototype with the help of digital design software, which showcased real-time parking availability, smart navigation, traffic flow tracking, and notification alerting features, and more.<br>
 **Test** - The user testing and demonstrations were performed to get feedback, confirm acceptability, and measure the solution's capability of actually dealing with the campus parking problems.<br>
 
-In conclusion, the project was a reflection of how design thinking application could be the way of handling the real problems by making them structured, thus the technology-driven solutions that are based on the user needs were the resultant.'
+In conclusion, the project was a reflection of how design thinking application could be the way of handling the real problems by making them structured, thus the technology-driven solutions that are based on the user needs were the resultant.
 
 ---
 
