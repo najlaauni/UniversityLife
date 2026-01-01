@@ -1,5 +1,5 @@
 # 🔧 Assignment 3
-This repository contains my personal record of Assignment 3 (Section 02) for my coursework. The task for this assignment was about .
+This repository contains my personal record of Assignment 3 (Section 02) for my coursework. The task for this assignment was about Chapter 3 – Counting & Discrete Probability Theory.
 
 Date: 17 November 2025 until 26 November 2025  
 
