@@ -12,8 +12,8 @@ This assignment must be done in a group consisting of 3 members which has been a
 - Answer all 6 questions :
   - show that at least 2 certificates share the same folder and the minimum number of people.
   - probability (question 2 to 6). 
-- Write all the names of members of the group on the front page.
-- Submit the assignment as a soft copy through eLearning.
+- Write all the names of members of the group on the front page
+- Submit the assignment as a hard copy through the lecturer
 
 ---
 
