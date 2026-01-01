@@ -27,11 +27,11 @@ A group of three that worked together was a good mix for the whole process as it
 ---
 
 ## 💡 Suggestions for Improvement
-In future assignments, it would really be beneficial if more sample questions or worked examples were included, mostly for the topics such as recurrence relations and recursive algorithms, since they need a careful step-by-step understanding.
+In the future, it could be beneficial to have more guided examples or step-by-step sample solutions especially for the probability questions with multiple cases or conditions as this would help the students to grasp the level of explanation required.
 
-In addition, putting up detailed marking rubrics could be a good way to show the students how the marks are distributed and where the requirement of explanation for each question lies. This would encourage more structured and precise answers.
+Moreover, a clear marking scheme or rubric for each question given would help the students to not only concentrate on the necessary working steps and justification but also on the final answer. This would encourage more systematic and complete solutions.
 
-Lastly, since this assignment was submitted as a soft copy, allowing the use of typed mathematical solutions or digital tools such as equation editors could improve readability and reduce ambiguity in handwritten work, especially for complex diagrams, matrices, and recursive traces.
+Lastly, although handwritten submission helps build discipline, allowing an option for neatly typed solutions using mathematical equation editors could improve readability and reduce errors, particularly for complex probability expressions and proofs.
 
 ---
 ## 🎯 Purpose of This Repository
