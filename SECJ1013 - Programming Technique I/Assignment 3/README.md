@@ -7,7 +7,7 @@ Date: 30 December 2025 until 12 January 2026
 
 ## 📘 Task Description
 
-This assignment must be done in pairs which means a group consisting of 2 members. We got set 2 which needs to write a complete C++ program to calculate the total and average number of students' intake, enrolment, and output in public universities for 2015. From set 2, we have been required to : <br>
+This assignment must be done in pairs which means a group consisting of 2 members. We got set 2 which needs to write a complete C++ program to calculate the total and average number of students' intake, enrolment, and output in public universities for 2015. Then, find the highest and lowest number of students' intake, enrolment, and output. Finally, find the range of the number of students' intake, enrolment, and output. From set 2, we have been required to : <br>
 - View and understand the provided output of the set that we got 
 - Construct a complete C++ program that has the same output as a set that we got
 - Apply : <br>
