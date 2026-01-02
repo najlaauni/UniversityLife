@@ -29,11 +29,11 @@ Moreover, dealing with arrays let me do data analysis operations, like calculati
 ---
 
 ## 💡 Suggestions for Improvement
-In upcoming tasks, the provision of input and output formats in a clearer way would be really useful and this would minimize misunderstandings and also guarantee that the programs give the same results.
+In case of further duties giving a more distinct example of the input and a format for output expected would be very much appreciated. This would eliminate misunderstandings and make it certain that learners during file reading and writing are using the correct format.
 
-Furthermore, a code review or feedback session could be introduced before the final submission to help students recognize logic or syntax mistakes and thus, student's coding practices could be improved.
+Moreover a small code review or feedback session conducted prior to the final submission could assist students in early detection of logical or formatting mistakes and thus the overall coding quality would be improved.
 
-Moreover, the use of version control systems, e.g., GitHub, for submitting or monitoring progress could be allowed or even promoted as it would enable students to control their code more professionally and learn through practice, a skill that is in demand in the industry.
+To sum up, making the use of version control systems like GitHub for assignment submissions mandatory or at least permissive would be advantageous. The students would not only be able to monitor their changes, organize their code better, but also get acquainted with one of the industry practices that are considered as professional software development skills that are immediately useful in the field.
 
 ---
 
