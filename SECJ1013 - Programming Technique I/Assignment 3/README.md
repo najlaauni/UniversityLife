@@ -11,7 +11,7 @@ This assignment must be done in pairs which means a group consisting of 2 member
 - View and understand the provided output of the set that we got 
 - Construct a complete C++ program that has the same output as a set that we got
 - Apply : <br>
-  a) function getInput. <br>
+  a) function. <br>
   b) Loop/repetition (repeat..until/do..while)<br>
   c) User-defined function flow chart. Besides the main function flow chart, at least one more other function flow chart. Use appropriate arguments for the function.
 - Save the file using the required naming format  
