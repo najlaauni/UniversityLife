@@ -13,7 +13,7 @@ This assignment must be done in pairs which means a group consisting of 2 member
 - Apply : <br>
   a) function. <br>
   b) input file.<br>
-  c) User-defined function flow chart. Besides the main function flow chart, at least one more other function flow chart. Use appropriate arguments for the function.
+  c) output file.
 - Save the file using the required naming format  
 - Submit the complete C++ program through the eLearning platform
 
