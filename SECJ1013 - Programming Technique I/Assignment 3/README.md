@@ -20,11 +20,11 @@ This assignment must be done in pairs which means a group consisting of 2 member
 ---
 
 ## 🪞 Reflection
-As part of Assignment 2, I had to write a complete C++ program for a Loan Calculator, which was a great way for me to connect algorithm design with programming. Besides that, I learned how to code a logic through the process of creating a working C++ application out of the output requirements given.
+For this assignment, I had to write an entire C++ program that would take care of the functions and analysis of the data of student intakes and enrollments as well as the output of public universities in Malaysia. This helped me to create a stronger link between problem analysis, algorithm design, and C++ programming.
 
-This task not only confirmed my understanding of C++ conditions, loops, and user-defined functions, but also expanded it. The application could use different ways of expressing the same thing through if– else statements, and the loops made it possible to calculate over and over as needed, which was great! Works to my advantage that I created several user-defined functions besides the main one because I got the chance of realizing the significance of modular programming and code reuse which meant that the program was readable and maintainable in the long run.
+Besides this, through this assignment I learned a lot more about file management with input and output files, especially how to make sure that the input file has been opened successfully before the processing of the data. The introduction of user-defined functions like getInput, calTotal, getLowest, and getHighest made me appreciate the main benefit of modular programming, which is that each function has a specific role. This led to better organization, readability, and ease of debugging for the program.
 
-The partnership atmosphere was great as it made communication and discussion of problems possible, especially when it came to the debugging of errors and program logic improvement. From such a course, I also got the chance of gaining debugging, logical reasoning, and structured C++ coding skills. Be it as it may, this mission gave me more assurance in creating full programs capable of solving real-life problems.
+Moreover, dealing with arrays let me do data analysis operations, like calculating totals, averages, highest, lowest, and range values. This hones my logical thinking and reinforces my understanding of array manipulation and function parameter passing. Overall, this assignment has made me more confident in the C++ program development process such as creating flexible programs that will give out meaningful reports on the basis of real-world data.
 
 ---
 
