@@ -1,5 +1,5 @@
 # 🔧 Assignment 3
-This repository contains my personal record of Assignment  (Section 02) for my coursework. The task for this assignment was to write a complete C++ program based on 2 sets that were given by the lecturer.
+This repository contains my personal record of Assignment 3 (Section 02) for my coursework. The task for this assignment was to write a complete C++ program based on 2 sets that were given by the lecturer.
 
 Date: 19-29 December 2025  
 
