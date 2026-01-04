@@ -1,5 +1,5 @@
 # 🔧 Lab 3 — Synchronous Digital Counter
-**Date:**   2025 until  December 2025  
+**Date:**   2025 until   2025  
 
 ---
 
