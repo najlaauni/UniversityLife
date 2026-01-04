@@ -1,4 +1,4 @@
-# 🔧 Lab 3 — 
+# 🔧 Lab 3 — Synchronous Digital Counter
 **Date:** 8 December 2025 until 22 December 2025  
 
 ---
