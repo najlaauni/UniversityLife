@@ -1,5 +1,5 @@
 # 🔧 Lab 3 — Synchronous Digital Counter
-**Date:**   
+**Date:** 2-11 January 2026
 
 ---
 
