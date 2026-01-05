@@ -5,7 +5,7 @@
 
 ## 🧰 Tools Used
 
-**Deeds Simulator (d-DcS):** A graphical schematic editor used for building, animating, and analyzing digital networks. It allows for both interactive "animation" of inputs and timing-mode simulations to observe signal sequences over time.
+
 
 ---
 
