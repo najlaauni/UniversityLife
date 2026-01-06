@@ -39,7 +39,6 @@ Part 2 — Circuit Construction
 Using the provided schematic, students assembled the synchronous counter circuit on a breadboard. All ICs were properly connected to Vcc and GND, and the clock input was supplied from the ETS-5000 Digital Kit. Switches were used to control the input variable X, while LEDs indicated the present and next states of the counter.
 
 Part 3 — Next-State Analysis
-
 The behavior of the counter was investigated by observing the output states for all combinations of present state (Q1, Q0) and input X. The observations were recorded in a next-state table, which served as the basis for identifying the counting sequence.
 
 Part 4 — State Diagram
