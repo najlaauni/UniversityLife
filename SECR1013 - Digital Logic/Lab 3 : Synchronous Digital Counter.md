@@ -7,7 +7,7 @@
 **ETS-5000 Digital Trainer & Breadboard:**<br>
 Used to provide clock pulses, power supply, switches, and LEDs for testing the synchronous counter circuit in real time.
 
-TTL ICs (74-series):<br>
+**TTL ICs (74-series):**<br>
 - 7476 JK Flip-Flop - main storage elements of the counter
 
 7408 AND Gate, 7432 OR Gate, 7404 NOT Gate – used to implement the required combinational logic for next-state generation
