@@ -22,6 +22,11 @@ Besides constructing the physical circuit on a breadboard, students were require
 
 ## 🎯 Objectives
 The objectives of this lab session are to:
+1) Implement a synchronous counter circuit into physical circuit using 
+Breadboard, Flip-Flops, Basic Gates and Switches. 
+2) Completing the next-state table of the counter circuit. 
+3) Sketch the state diagram of the counter circuit. 
+4) Identify the properties of the counter.
 - expose student with producing digital logic circuit, generating truth table and Timing Diagram with Deeds Simulator.
 - expose student with a complete cycle process of a combinatorial circuit design and simulate with Deeds Simulator.
 
