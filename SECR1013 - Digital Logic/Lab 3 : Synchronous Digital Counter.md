@@ -42,7 +42,6 @@ Part 3 — Next-State Analysis
 The behavior of the counter was investigated by observing the output states for all combinations of present state (Q1, Q0) and input X. The observations were recorded in a next-state table, which served as the basis for identifying the counting sequence.
 
 Part 4 — State Diagram
-
 Based on the completed next-state table, students sketched the state diagram of the counter. The diagram clearly shows that when X = 1, the counter cycles through all states in sequence, while when X = 0, the counter remains in its current state.
 
 ---
