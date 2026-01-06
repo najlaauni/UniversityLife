@@ -14,7 +14,9 @@ Used to provide clock pulses, power supply, switches, and LEDs for testing the s
 ---
 
 ## 📌 Overview
-The lab session presented the fundamental principles of combinational logic circuit design, simplification, and optimization using Boolean algebra and K-maps. Besides, it was mainly about the practical aspect of using the Deeds Simulator to construct digital networks, generate timing diagrams, and verify logic behaviors through software-based simulation and universal gate implementation.
+This lab session focused on the construction and analysis of a synchronous digital counter using JK flip-flops and basic logic gates. The main emphasis of the experiment was to understand how synchronous counters operate, how all flip-flops respond simultaneously to a common clock signal, and how external control inputs influence the counting behavior.
+
+Besides constructing the physical circuit on a breadboard, students were required to analyze the circuit behavior by completing the next-state table, sketching the state diagram, and identifying the fundamental properties of the counter. This lab bridges theoretical knowledge of sequential logic with hands-on circuit implementation.
 
 ---
 
