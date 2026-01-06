@@ -36,7 +36,6 @@ Part 1 — JK Flip-Flop Familiarization<br>
 Students first examined the behavior of the 7476 JK flip-flop by manually setting the J, K, PRE, and CLR inputs. The output response was observed through LEDs while applying clock pulses. This step helped students understand synchronous and asynchronous operations, including reset, set, hold, and toggle conditions.
 
 Part 2 — Circuit Construction
-
 Using the provided schematic, students assembled the synchronous counter circuit on a breadboard. All ICs were properly connected to Vcc and GND, and the clock input was supplied from the ETS-5000 Digital Kit. Switches were used to control the input variable X, while LEDs indicated the present and next states of the counter.
 
 Part 3 — Next-State Analysis
