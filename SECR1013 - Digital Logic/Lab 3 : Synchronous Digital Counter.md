@@ -4,7 +4,7 @@
 ---
 
 ## 🧰 Tools Used
-**ETS-5000 Digital Trainer & Breadboard:**
+**ETS-5000 Digital Trainer & Breadboard:**<br>
 Used to provide clock pulses, power supply, switches, and LEDs for testing the synchronous counter circuit in real time.
 
 TTL ICs (74-series):<br>
