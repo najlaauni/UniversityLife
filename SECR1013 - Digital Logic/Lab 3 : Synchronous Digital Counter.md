@@ -62,6 +62,7 @@ Moreover, I became sure of my skills in pointing out the counter characteristics
 - Provide clearer labeling on the circuit diagram to reduce wiring errors during construction.
 
 ---
+[Uploading Lab 3 - printed (2).pdf…]()
 
 ## 📎 File 
-Click [here](https://github.com/user-attachments/files/24342265/Lab.2.3.docx) to view Lab 2 Handout  
+Click [here]() to view Lab 2 Handout  
