@@ -47,7 +47,7 @@ The state diagram of the counter was sketched by the students based on the finis
 
 ## 📝 Reflection
 
-As a first-year student, this lab session on synchronous digital counters gave me valuable hands-on experience with sequential logic circuits. Before this experiment, my understanding of counters was mostly theoretical and limited to diagrams and truth tables. Building the circuit physically helped me see how flip-flops and logic gates work together in a real system.
+
 
 Through this lab, I learned that the key characteristic of a synchronous counter is that all flip-flops are driven by a single common clock, causing state changes to occur simultaneously. Completing the next-state table and sketching the state diagram helped me better understand how control inputs, such as switch X, affect the behavior of the counter.
 
