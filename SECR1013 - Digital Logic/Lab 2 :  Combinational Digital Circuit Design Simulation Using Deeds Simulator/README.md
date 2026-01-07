@@ -23,7 +23,7 @@ The objectives of this lab session are to:
 
 ## 🧪 Laboratory Work
 
-Part 1 — Circuit Analysis
+Part 1 — Circuit Analysis <br>
 Students are given a specific logic circuit and must derive its initial Boolean expressions. These expressions are simplified into Sum of Product (SOP) and Product of Sum (POS) forms using De Morgan’s Theorem and other logic rules. Students then verify their manual work by simulating the circuit in Deeds to generate truth tables and timing waveforms.
 
 Part 2 — Combinational Circuit Design <br>
