@@ -47,11 +47,11 @@ The state diagram of the counter was sketched by the students based on the finis
 
 ## 📝 Reflection
 
-As a first-year student, the Digital Logic Lab session focusing on the Deeds Simulator was a fun and eye-opening experience for me. It was my first hands-on exposure to designing and simulating combinational circuits using specialized software. Before this lab, logic gates and Boolean expressions felt very abstract because everything was learned on paper. Being able to virtually build the circuits and see them function in real-time helped me clearly understand how theoretical logic designs behave in a digital environment.
+As a first-year student, this lab session on synchronous digital counters gave me valuable hands-on experience with sequential logic circuits. Before this experiment, my understanding of counters was mostly theoretical and limited to diagrams and truth tables. Building the circuit physically helped me see how flip-flops and logic gates work together in a real system.
 
-During the lab session, I learned how to use the d-DcS schematic editor to construct digital networks and generate timing diagrams to verify signal sequences. I realized the importance of the complete design cycle by starting from a problem description, like the LRT coach door system, to deriving truth tables and simplifying expressions using K-maps. These steps required patience and attention to detail, especially when converting the final design into NAND-only gates. Seeing the simulation confirm that my simplified NAND circuit worked exactly like the original design helped me better understand the power of universal gates.
+Through this lab, I learned that the key characteristic of a synchronous counter is that all flip-flops are driven by a single common clock, causing state changes to occur simultaneously. Completing the next-state table and sketching the state diagram helped me better understand how control inputs, such as switch X, affect the behavior of the counter.
 
-Besides gaining technical knowledge in software simulation, this lab helped me connect Boolean theory with practical implementation, making the learning process more interactive and meaningful. I now feel more confident in simplifying complex logic and interpreting timing waveforms based on simulated results rather than purely theoretical assumptions. Overall, I am grateful for this experience as it strengthened my understanding of digital logic design and motivated me to keep improving my practical skills in the field of computer science.
+I also gained confidence in identifying counter properties, such as the number of states and whether the counter is a recycle counter. Overall, this lab strengthened my understanding of sequential circuits and helped me connect theoretical concepts with practical circuit behavior.
 
 ---
 
