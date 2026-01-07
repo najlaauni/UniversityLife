@@ -49,8 +49,6 @@ The state diagram of the counter was sketched by the students based on the finis
 
 
 
-Through this lab, I learned that the key characteristic of a synchronous counter is that all flip-flops are driven by a single common clock, causing state changes to occur simultaneously. Completing the next-state table and sketching the state diagram helped me better understand how control inputs, such as switch X, affect the behavior of the counter.
-
 I also gained confidence in identifying counter properties, such as the number of states and whether the counter is a recycle counter. Overall, this lab strengthened my understanding of sequential circuits and helped me connect theoretical concepts with practical circuit behavior.
 
 ---
