@@ -49,8 +49,6 @@ The state diagram of the counter was sketched by the students based on the finis
 
 
 
-I also gained confidence in identifying counter properties, such as the number of states and whether the counter is a recycle counter. Overall, this lab strengthened my understanding of sequential circuits and helped me connect theoretical concepts with practical circuit behavior.
-
 ---
 
 ## 💡 Suggestions for Improvement
