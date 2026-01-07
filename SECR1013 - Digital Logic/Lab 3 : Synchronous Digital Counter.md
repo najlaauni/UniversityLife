@@ -58,7 +58,7 @@ Moreover, I became sure of my skills in pointing out the counter characteristics
 ## 💡 Suggestions for Improvement
 - Provide a short introductory tutorial or demo on using the Deeds Simulator before do the lab.
 - Include more guided examples for K-map simplification, especially for larger or more complex input combinations.
-- Alocate more time for verification and discussion after simulation.
+- Include additional example circuits to help students compare synchronous and asynchronous counters.
 - Provide clearer labeling on the circuit diagram to reduce wiring errors during construction.
 
 ---
