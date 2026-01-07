@@ -42,6 +42,7 @@ The behavior of the counter was investigated by observing the output states for 
 
 Part 4 — State Diagram<br>
 The state diagram of the counter was sketched by the students based on the finished next-state table. The diagram illustrates very well that the counter moves through all states in order when X = 1, whereas it stays in its present state when X = 0.
+
 ---
 
 ## 📝 Reflection
