@@ -51,6 +51,8 @@ As a first-year student, this lab session on synchronous digital counters gave m
 
 This lab was an educational experience for me as I learned that one of the main features of a synchronous counter is that the clock is common to all the flip-flops, resulting in the simultaneous occurrence of transitions. The process of making the next-state table and drawing the state diagram gave me a clear understanding of the influence of control inputs, like switch X, on the counter operation.
 
+Moreover, I became sure of my skills in pointing out the counter characteristics like the amount of states and if it’s a recycling counter or not. In summary, this laboratory exercise increased my knowledge of the sequential circuits and made me able to relate the theoretical concepts with the actual circuit behavior.
+
 ---
 
 ## 💡 Suggestions for Improvement
