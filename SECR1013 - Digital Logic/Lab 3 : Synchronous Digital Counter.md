@@ -59,7 +59,7 @@ Moreover, I became sure of my skills in pointing out the counter characteristics
 - Provide a short introductory tutorial or demo on using the Deeds Simulator before do the lab.
 - Include more guided examples for K-map simplification, especially for larger or more complex input combinations.
 - Alocate more time for verification and discussion after simulation.
-- Provide additional practice problems or optional extension tasks using real-world scenarios.
+- Provide clearer labeling on the circuit diagram to reduce wiring errors during construction.
 
 ---
 
