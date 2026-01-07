@@ -47,7 +47,7 @@ The state diagram of the counter was sketched by the students based on the finis
 
 ## 📝 Reflection
 
-
+As a first-year student, this lab session on synchronous digital counters gave me valuable hands-on experience with sequential logic circuits. Before this experiment, my comprehension of counters was practically and not beyond the level of diagrams and truth tables. The physical construction of the circuit allowed me to visualize the collaboration of flip-flops and logic gates in a genuine system.
 
 ---
 
