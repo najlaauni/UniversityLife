@@ -26,7 +26,7 @@ The objectives of this lab session are to:
 Part 1 — Circuit Analysis
 Students are given a specific logic circuit and must derive its initial Boolean expressions. These expressions are simplified into Sum of Product (SOP) and Product of Sum (POS) forms using De Morgan’s Theorem and other logic rules. Students then verify their manual work by simulating the circuit in Deeds to generate truth tables and timing waveforms.
 
-Part 2 — Combinational Circuit Design 
+Part 2 — Combinational Circuit Design <br>
 This section involves a practical design problem: creating a logic circuit to control an LRT coach door (OPEN and ALARM signals) based on the coach's status and its arrival at specific stations (S1, S2, or S3).<br>
 Design Process:
 - Defining input/output relations and constructing a truth table.
