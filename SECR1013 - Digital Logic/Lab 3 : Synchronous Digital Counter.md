@@ -1,5 +1,5 @@
 # 🔧 Lab 3 — Synchronous Digital Counter
-**Date:** 2 January 2026 ntil 11 January 2026
+**Date:** 2 January 2026 until 11 January 2026
 
 ---
 
