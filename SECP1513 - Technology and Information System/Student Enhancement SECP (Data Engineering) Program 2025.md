@@ -13,11 +13,12 @@ The speakers are:<br>
 - UTM Graduate Attributes – Mr. Baharudin Mastari (Senior Deputy Registrar, Faculty of Computing, UTM JB) <br>
 - CV Writing – Ms. Noor Hazwani Ramli (Founder of GetMe Hired)<br>
 - Learning Beyond the Classroom – Sharing from our 4th-year seniors<br>
-    Some advice that have truly resonated with me:<br>
-    💭 “Learning is not a race, but it’s about connecting and growing.” – Neo Zheng Weng<br>
-    💭 “Master one stack first before moving to others. Go deep into one area until you truly understand it, rather than trying to learn everything at once.” – Yong Wern Jie<br>
-    💭 “Don’t just watch tutorials, start actively practice what you learn.” – Camily Tang Jia Lei <br>
-    💭 “Be honest. It’s okay not to know everything. Interviewers value honesty and willingness to learn more than pretending to know.” – Ng Shu Yu<br>
+
+Some advice that have truly resonated with me:<br>
+💭 “Learning is not a race, but it’s about connecting and growing.” – Neo Zheng Weng<br>
+💭 “Master one stack first before moving to others. Go deep into one area until you truly understand it, rather than trying to learn everything at once.” – Yong Wern Jie<br>
+💭 “Don’t just watch tutorials, start actively practice what you learn.” – Camily Tang Jia Lei <br>
+💭 “Be honest. It’s okay not to know everything. Interviewers value honesty and willingness to learn more than pretending to know.” – Ng Shu Yu<br>
 
 They all shared valuable insights on professional growth, employability, and experiences. 
 <br>
