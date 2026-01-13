@@ -1,6 +1,6 @@
 # 🎤 JCORP Industry Visit
 
-**Date:** 7 2026  
+**Date:** 7 January 2026  
 **Time:** 2:00pm - 4:00pm  
 **Venue:** Hyflex Classroom, N28A  
 
