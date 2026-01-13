@@ -1,4 +1,4 @@
-# 🎤 Project Management and System Development Talk
+# 🎤 JCORP Industry Visit
 
 **Date:** 18 December 2025  
 **Time:** 2:00pm - 4:00pm  
