@@ -2,37 +2,36 @@
 
 **Date:** 7 January 2026  
 **Time:** 8.30am - 1.30pm  
-**Venue:** Hyflex Classroom, N28A  
+**Venue:** JCORP, Johor Bahru City Centre
 
 
 ---
 
 ## 📌 Summary About the Talk
 
-This industry talk, titled "Project Management & System Development", was delivered by Tuan Hj. Abdul Alim. The session emphasized that system development is the core language of a future career in Computer Science and highlighted the transition toward an AI-driven industry. The presentation focused on three key pillars of building a professional foundation:
-- **System Development Life Cycle (SDLC)** <br>
-  Standardizes the whole process of application software development including definition, design, testing, and implementation instead of just coding.<br>
-- **Project Management (PM) Methodologies** <br>
-  Controls complexity and ensures team synergy through structured approaches like Waterfall or Agile to keep projects on track and within budget.<br>
-- **Agentic Coding & System Architecture** <br>
-  Transform the function of a developer from "Coder" to "System Architect" that deals with invisible AI agents to develop, test, and run sophisticated systems.<br>
+The visit to Johor Corporation (JCORP) was very interesting and it showed how a big company uses the latest technology in real business situations. The meeting was headed by Mr. Budiman Bujang, who presented how JCORP uses Artificial Intelligence (AI), automation, and data analytics to help not only with daily operations but also with making strategic decisions.
 
-These core competencies are essential for avoiding the "FYP Trap" and achieving a success formula for future-ready graduates.
+JCorp has several initiatives in place that he described such as ServiceNow monitoring systems, Microsoft Copilot, and a Command Centre that is backed by real-time data and sophisticated analytics. These technologies enable efficient monitoring, faster responses, and more informed managerial decisions.
+
+In addition, we were introduced to JCORP’s TRIA Initiative (AI, Automation, and Analytics), which represents the organisation’s vision of becoming an AI-first enterprise by embedding intelligent systems across its operational structure. Beyond technology, the working environment at JCORP was also impressive, featuring a calm, garden-themed office layout that promotes employee comfort and productivity.
 
 ---
 
 ## 📝 Reflection
-Attending the industry talk by Tuan Hj. Abdul Alim as a first-year student was genuinely eye-opening for me.  I was able to have a very distinct notion that System Development is not merely a subject matter of the book, but the main language of my future profession. The lecture transmitted an important message regarding professional growth that was honestly in line with my thoughts: today's success is in a "New Success Formula" composed of 40% Coding & AI and 60% System and Project Management skills, thus confirming my urgency to acquire a practical architectural experience right away.
+As a first-year student, attending this industry visit was a truly eye-opening experience for me. It enlightened me that computer science is not merely a matter of coding, but rather a question of technological deployment in a smart way so that the problem of the organization is solved.
 
-At the time of SDLC presentation, I came to the conclusion that the successful software projects basically consist of the five main areas: planning, analysis, design, implementation, and maintenance. The PM discussion on the other hand, showed how much of an impact methods like Agile and Waterfall have on the management of chaos and the communication between teams that are located in different places around the globe. In addition, the agentic coding section affirmed that the AI agents are taking over the coding field, and I need to change my role from "Coder" to "System Architect" who controls the AI that does the system's building. Through those parts of the presentations, I not only learned but also started to compare and value how far apart and yet so close all the tech jobs are from Data Engineering to Network Security.
+One of the statements that affected me a lot was the one of Mr. Yusri Mohamed, who stressed that in the present world, career readiness is not determined only by academic performance but also by the individual's awareness and comprehension of the technology trends. This very thought made me realize that learning must be continuous, particularly in the AI and data analytics areas. The trip increased my persisted aspiration to learn more about the existing technology and to be equally with the future job market. The fact that I witnessed the implementation of AI and analytics in a business operation gave a stronger point to my choice of a technology-related career.
 
-After the industry talk, my interest in mastering these core skills grew even stronger because the presentation exposed the "FYP Trap" warning me not to wait until my final year to understand complete system building. I believe this field will continue to grow as we enter the age of autonomous developers, and mastering these frameworks will give me a valuable pathway for my future career. Currently, my goal is to gain complete control over these technical and managerial layers, thus making it possible for me to create significant value globally. In general, I want to thank Tuan Hj. Abdul Alim for allowing me to see the computer science journey from a new perspective. The lecture was a big encouragement for me to pursue my self-improvement continually and to realize that secure and reliable systems are established on the principles of secure design architecture.
+On the whole, this trip was very enjoyable and very uplifting to me. I cannot help but thank the JCORP group for the very friendly manner in which they treated me, for the information they shared with me, and for their amiable attitude towards me. In addition, I am very grateful to our teacher, Dr. Aryati Bakri, who opened this door for me, and I wish to apply my learning for the good of the industry in the future.
 
 ---
 
 ## 🔧 Suggestions for Improving the Talk
-- Allocate more time for Q&A so students can clarify doubts and learn directly from industry professionals. <br>
-- Provide follow-up resources such as slides so students can continue learning after the session.
+- Allocate more time for interactive Q&A sessions with industry speakers.
+
+- Provide short demonstrations or live system walkthroughs to enhance understanding.
+
+- Share presentation slides or reference materials after the session for further learning.
 
 ---
 
