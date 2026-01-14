@@ -27,32 +27,24 @@ On the whole, this trip was very enjoyable and very uplifting to me. I cannot he
 ---
 
 ## 🔧 Suggestions for Improving the Talk
-- Allocate more time for interactive Q&A sessions with industry speakers.
-
-- Provide short demonstrations or live system walkthroughs to enhance understanding.
-
+- Allocate more time for interactive Q&A sessions with industry speakers.<br>
+- Provide short demonstrations or live system walkthroughs to enhance understanding.<br>
 - Share presentation slides or reference materials after the session for further learning.
 
 ---
 
 ## 📎  Task After the Talk
-After the industry talk, we received a task to create an academic writing that should not exceed 3 pages based on the talk content.  <br>
-[Assignment 3 Report System Development.docx](https://github.com/user-attachments/files/24306722/Assignment.3.Report.System.Development.docx)
+After the industry visit, we received a task to create a newsletter that should not exceed 3 pages based on the visit.  <br>
+[Assignment 4 Newsletter Industrial Visit to Jcorp.docx](https://github.com/user-attachments/files/24606704/Assignment.4.Newsletter.Industrial.Visit.to.Jcorp.docx)
 
 ---
 
 ## 📷 Photos
-Here are some photos during the industry talk:<br>
-
-![3e8ff997-5fbd-4711-b6ce-96863a489f2a](https://github.com/user-attachments/assets/07df8387-22ff-4ae4-bc3e-6c886c4cfc0b) <br>
-*Poster of Industry Talk 2* 
-<br>
-
-![9d98b016-6c4a-4574-a65d-535dc4b23d0b](https://github.com/user-attachments/assets/d85b4eac-ba31-4285-bfff-7c4413677534)<br>
-![65ee8ff7-2c13-4048-94ec-55f9bf277440](https://github.com/user-attachments/assets/db410a2a-b71c-4d15-a37a-4fabac75208f)<br>
-*Group photo of future data engineers*
+Here are some photos during the industry visit:<br>
+<img width="1073" height="805" alt="image" src="https://github.com/user-attachments/assets/75dc9ba4-ab99-4aa9-9730-3af73b5db237" /> <br>
+<img width="863" height="647" alt="image" src="https://github.com/user-attachments/assets/dc83d31a-1a5e-403f-bc38-97c7f4459880" /> <br>
 
 ---
 
-## ☁️ The Academic Writing of The Industry Talk
-[ASSIGNMENT 3](https://github.com/user-attachments/files/24338851/ASSIGNMENT.3.1.pdf)
+## ☁️ The Newsletter of The Industry Talk
+[ASSIGNMENT 4](https://github.com/user-attachments/files/24338851/ASSIGNMENT.3.1.pdf)
