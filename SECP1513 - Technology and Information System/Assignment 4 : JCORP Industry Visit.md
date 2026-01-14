@@ -41,8 +41,9 @@ After the industry visit, we received a task to create a newsletter that should 
 
 ## 📷 Photos
 Here are some photos during the industry visit:<br>
+
 <img width="1073" height="805" alt="image" src="https://github.com/user-attachments/assets/75dc9ba4-ab99-4aa9-9730-3af73b5db237" /> <br>
-<img width="863" height="647" alt="image" src="https://github.com/user-attachments/assets/dc83d31a-1a5e-403f-bc38-97c7f4459880" /> <br>
+<img width="1073" height="805" alt="image" src="https://github.com/user-attachments/assets/dc83d31a-1a5e-403f-bc38-97c7f4459880" /> <br>
 
 ---
 
