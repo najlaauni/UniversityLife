@@ -1,4 +1,4 @@
-# 🎤 JCORP Industry Visit
+# 🎤 Industry Talk
 
 **Date:** 7 January 2026  
 **Time:** 8.30am - 1.30pm  
