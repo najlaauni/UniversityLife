@@ -1,6 +1,6 @@
 # 🎤 Industry Talk 3: Information Systems Behind Power BI
 
-**Date:** 7 January 2026  
+**Date:** 14 January 2026  
 **Time:** 8.30am - 1.30pm  
 **Venue:** JCORP, Johor Bahru City Centre
 
