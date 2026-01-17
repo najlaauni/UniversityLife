@@ -10,11 +10,11 @@
 
 ## 📌 Summary About the Talk
 
-The visit to Johor Corporation (JCORP) was very interesting and it showed how a big company uses the latest technology in real business situations. The meeting was headed by Mr. Budiman Bujang, who presented how JCORP uses Artificial Intelligence (AI), automation, and data analytics to help not only with daily operations but also with making strategic decisions.
+The industry talk by PPG provided useful insights into how business intelligence (BI) and information systems are applied in real industrial settings. The speaker began by introducing PPG as a global chemical company involved in producing paints, coatings, and silica products for industries such as tyres and rubber manufacturing.
 
-JCorp has several initiatives in place that he described such as ServiceNow monitoring systems, Microsoft Copilot, and a Command Centre that is backed by real-time data and sophisticated analytics. These technologies enable efficient monitoring, faster responses, and more informed managerial decisions.
+She then explained the role of Power BI as a reporting and analytics platform used to transform raw data into meaningful information for decision-making. To make the concept easier to understand, the speaker used a dessert-making analogy to describe how data flows from different sources to end users. In this analogy, ingredients represented data (such as sales and customer data), suppliers represented data sources like SQL Server and SAP, logistics represented networks such as VPN and the Internet, storage symbolized databases and data warehouses, kitchen appliances represented servers and cloud computing, recipes symbolized software such as Power BI, chefs represented BI developers, and customers represented business users.
 
-In addition, we were introduced to JCORP’s TRIA Initiative (AI, Automation, and Analytics), which represents the organisation’s vision of becoming an AI-first enterprise by embedding intelligent systems across its operational structure. Beyond technology, the working environment at JCORP was also impressive, featuring a calm, garden-themed office layout that promotes employee comfort and productivity.
+In addition, the speaker introduced the three main components of Power BI: Power BI Desktop, Power BI Service, and Power BI Mobile. She also briefly explained system architecture and how VPN settings can be adjusted to ensure that only authorized users can access specific reports and information.
 
 ---
 
