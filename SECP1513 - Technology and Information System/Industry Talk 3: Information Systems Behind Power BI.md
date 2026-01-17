@@ -19,11 +19,11 @@ In addition, we were introduced to JCORP’s TRIA Initiative (AI, Automation, an
 ---
 
 ## 📝 Reflection
-As a first-year student, attending this industry visit was a truly eye-opening experience for me. It enlightened me that computer science is not merely a matter of coding, but rather a question of technological deployment in a smart way so that the problem of the organization is solved.
+As a student, I found this talk very informative because it helped me visualize how theoretical concepts that we learn in class are applied in real industrial environments. The dessert-making analogy was especially helpful, as it simplified complex topics such as data pipelines, storage systems, and reporting tools into something easy to understand.
 
-One of the statements that affected me a lot was the one of Mr. Yusri Mohamed, who stressed that in the present world, career readiness is not determined only by academic performance but also by the individual's awareness and comprehension of the technology trends. This very thought made me realize that learning must be continuous, particularly in the AI and data analytics areas. The trip increased my persisted aspiration to learn more about the existing technology and to be equally with the future job market. The fact that I witnessed the implementation of AI and analytics in a business operation gave a stronger point to my choice of a technology-related career.
+The talk also made me realize that information systems are not only about programming, but about integrating data, networks, hardware, and software to support business operations. Seeing how Power BI is used in a large company like PPG increased my appreciation of the importance of data analytics and business intelligence in modern organizations.
 
-On the whole, this trip was very enjoyable and very uplifting to me. I cannot help but thank the JCORP group for the very friendly manner in which they treated me, for the information they shared with me, and for their amiable attitude towards me. In addition, I am very grateful to our teacher, Dr. Aryati Bakri, who opened this door for me, and I wish to apply my learning for the good of the industry in the future.
+Furthermore, the message shared by the speaker and reinforced by Dr. Aryati reminded me that continuous learning is essential in the technology field. Even when certain subjects feel difficult or less interesting, mastering them is important for long-term growth. This talk motivated me to improve not only my technical knowledge, especially in data and analytics, but also my communication and problem-solving skills so that I can be better prepared for future industry challenges. Overall, this session strengthened my determination to make full use of the learning opportunities provided at UTM and to continuously upskill myself for both academic success and career readiness.
 
 ---
 
