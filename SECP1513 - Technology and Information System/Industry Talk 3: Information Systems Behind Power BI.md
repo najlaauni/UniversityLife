@@ -35,12 +35,6 @@ Furthermore, the message shared by the speaker and reinforced by Dr. Aryati remi
 
 ---
 
-## 📎  Task After the Talk
-After the industry visit, we received a task to create a newsletter that should not exceed 3 pages based on the visit.  <br>
-[Assignment 4 Newsletter Industrial Visit to Jcorp.docx](https://github.com/user-attachments/files/24606704/Assignment.4.Newsletter.Industrial.Visit.to.Jcorp.docx)
-
----
-
 ## 📷 Photos
 Here are some photos during the industry visit:<br>
 
