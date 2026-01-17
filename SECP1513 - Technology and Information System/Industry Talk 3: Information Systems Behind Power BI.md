@@ -28,7 +28,7 @@ On the whole, this trip was very enjoyable and very uplifting to me. I cannot he
 ---
 
 ## 🔧 Suggestions for Improving the Talk
-- Allocate more time for interactive Q&A sessions with industry speakers.<br>
+- Provide more real examples or case studies of Power BI dashboards used in PPG projects.<br>
 - Provide short demonstrations or live system walkthroughs to enhance understanding.<br>
 - Share presentation slides or reference materials after the session for further learning.
 
