@@ -37,14 +37,7 @@ The speaker's message, that was backed up by Dr. Aryati, did also remind me that
 
 ## 📷 Photos
 Here are some photos during the industry visit:<br>
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/47cdce11-d401-418c-92d6-ad3e4c344108" /> <br>
+<img width="1073" height="805" alt="image" src="https://github.com/user-attachments/assets/47cdce11-d401-418c-92d6-ad3e4c344108" /> <br>
 <img width="1073" height="805" alt="image" src="https://github.com/user-attachments/assets/bf8373bd-8289-47dc-843f-2ad708eddc01" /> <br>
 <img width="1073" height="805" alt="image" src="https://github.com/user-attachments/assets/47cdce11-d401-418c-92d6-ad3e4c344108" /> <br>
 ![6298355328550112979](https://github.com/user-attachments/assets/02cf96cd-7f6b-4052-b079-b0e24d6500ef)
-
-
----
-
-## ☁️ The Newsletter of The Industry Talk
-[ASSIGNMENT 4](https://github.com/user-attachments/files/24338851/ASSIGNMENT.3.1.pdf)
-
