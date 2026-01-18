@@ -37,11 +37,10 @@ The speaker's message, that was backed up by Dr. Aryati, did also remind me that
 
 ## 📷 Photos
 Here are some photos during the industry visit:<br>
-
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/2a8dfe59-ed0f-4be5-80fa-1b682d7728f9" /> <br>
-<img width="1073" height="805" alt="image" src="https://github.com/user-attachments/assets/75dc9ba4-ab99-4aa9-9730-3af73b5db237" /> <br>
-<img width="1073" height="805" alt="image" src="https://github.com/user-attachments/assets/dc83d31a-1a5e-403f-bc38-97c7f4459880" /> <br>
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/4e65c015-200a-49f4-a528-c4af3cd63be3" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/47cdce11-d401-418c-92d6-ad3e4c344108" /> <br>
+<img width="1073" height="805" alt="image" src="https://github.com/user-attachments/assets/bf8373bd-8289-47dc-843f-2ad708eddc01" /> <br>
+<img width="1073" height="805" alt="image" src="https://github.com/user-attachments/assets/47cdce11-d401-418c-92d6-ad3e4c344108" /> <br>
+![6298355328550112979](https://github.com/user-attachments/assets/02cf96cd-7f6b-4052-b079-b0e24d6500ef)
 
 
 ---
