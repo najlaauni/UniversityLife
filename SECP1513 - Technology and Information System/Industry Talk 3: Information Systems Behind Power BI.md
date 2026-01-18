@@ -10,16 +10,16 @@
 
 ## 📌 Summary About the Talk
 
-The industry talk by PPG provided useful insights into how business intelligence (BI) and information systems are applied in real industrial settings. The speaker began by introducing PPG as a global chemical company involved in producing paints, coatings, and silica products for industries such as tyres and rubber manufacturing.
+The industry talk by PPG provided useful insights into how business intelligence (BI) and information systems are applied in real industrial settings. The speaker started off by PPG introduction as a worldwide chemical corporation dealing with the manufacture of paints, coatings, and silica products for a variety of markets including tyres and rubber industry.
 
-She then explained the role of Power BI as a reporting and analytics platform used to transform raw data into meaningful information for decision-making. To make the concept easier to understand, the speaker used a dessert-making analogy to describe how data flows from different sources to end users. In this analogy, ingredients represented data (such as sales and customer data), suppliers represented data sources like SQL Server and SAP, logistics represented networks such as VPN and the Internet, storage symbolized databases and data warehouses, kitchen appliances represented servers and cloud computing, recipes symbolized software such as Power BI, chefs represented BI developers, and customers represented business users.
+Then, the speaker revealed the function of Power BI as a platform for reporting and analytics that is employed to convert raw data into significant data for the purpose of decision-making. In order to facilitate the understanding of the concept, the speaker resorted to a dessert making analogy to illustrate the way data travels from different sources to the end users. According to this analogy, the ingredients stood for data (sales and customer data, for instance), suppliers were the data sources like SQL Server and SAP, logistics represented networks like VPN and the Internet, storage was symbolizing databases and data warehouses, kitchen tools were the servers and cloud computing, recipes were the software such as Power BI, chefs were the BI developers, and customers were the business users.
 
-In addition, the speaker introduced the three main components of Power BI: Power BI Desktop, Power BI Service, and Power BI Mobile. She also briefly explained system architecture and how VPN settings can be adjusted to ensure that only authorized users can access specific reports and information.
+Moreover, the speaker presented Power BI's three main components: Power BI Desktop, Power BI Service, and Power BI Mobile. She also, in passing, talked about the system architecture and the way VPN settings can be altered to make sure that only the people who have the permission will be able to reach the specific reports and information.
 
 ---
 
 ## 📝 Reflection
-As a student, I found this talk very informative because it helped me visualize how theoretical concepts that we learn in class are applied in real industrial environments. The dessert-making analogy was especially helpful, as it simplified complex topics such as data pipelines, storage systems, and reporting tools into something easy to understand.
+As a first-year student, attending this industry visit was a truly eye-opening experience for me. I found this talk very informative because it helped me visualize how theoretical concepts that we learn in class are applied in real industrial environments. The dessert-making analogy was especially helpful, as it simplified complex topics such as data pipelines, storage systems, and reporting tools into something easy to understand.
 
 The talk also made me realize that information systems are not only about programming, but about integrating data, networks, hardware, and software to support business operations. Seeing how Power BI is used in a large company like PPG increased my appreciation of the importance of data analytics and business intelligence in modern organizations.
 
