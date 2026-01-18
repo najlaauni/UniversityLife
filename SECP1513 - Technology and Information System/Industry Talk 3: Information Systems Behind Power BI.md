@@ -10,7 +10,7 @@
 
 ## 📌 Summary About the Talk
 
-The industry talk by PPG provided useful insights into how business intelligence (BI) and information systems are applied in real industrial settings. The speaker started off by PPG introduction as a worldwide chemical corporation dealing with the manufacture of paints, coatings, and silica products for a variety of markets including tyres and rubber industry.
+The industry talk by speaker from PPG provided useful insights into how business intelligence (BI) and information systems are applied in real industrial settings. The speaker started off by PPG introduction as a worldwide chemical corporation dealing with the manufacture of paints, coatings, and silica products for a variety of markets including tyres and rubber industry.
 
 Then, the speaker revealed the function of Power BI as a platform for reporting and analytics that is employed to convert raw data into significant data for the purpose of decision-making. In order to facilitate the understanding of the concept, the speaker resorted to a dessert making analogy to illustrate the way data travels from different sources to the end users. According to this analogy, the ingredients stood for data (sales and customer data, for instance), suppliers were the data sources like SQL Server and SAP, logistics represented networks like VPN and the Internet, storage was symbolizing databases and data warehouses, kitchen tools were the servers and cloud computing, recipes were the software such as Power BI, chefs were the BI developers, and customers were the business users.
 
