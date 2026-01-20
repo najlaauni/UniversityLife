@@ -48,3 +48,5 @@ Click [here](https://github.com/user-attachments/files/24390117/Design.Thinking.
 |Google Form|[View](https://forms.gle/tNshG4Qzyk2MDrgY7)|
 |Collected Data|[View](https://docs.google.com/spreadsheets/d/19xM-cjD9jRAIBf0OsdzbHPo9xMAWfpMdMr9bbcpc35A/edit?usp=sharing)|
 |Prototype|[View](https://github.com/user-attachments/files/24390183/Park.Easy.1.pdf)|
+|Slide|[View](https://github.com/user-attachments/files/24733387/CampusSpot.pdf)
+
