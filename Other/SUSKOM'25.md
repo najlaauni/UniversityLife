@@ -33,7 +33,7 @@ SUSKOM'25 showed me that there is value in teamwork beyond the immediate influen
 ---
 
 ## 📷 Photos
-Here are some photos during the summit:<br>
+Here are some photos during the event:<br>
 
 ![3ab02c6a-b1d1-4df9-8a33-0a5d3c668f32](https://github.com/user-attachments/assets/04bd7264-6f9b-454f-9259-42b2c755134f) <br>
 
