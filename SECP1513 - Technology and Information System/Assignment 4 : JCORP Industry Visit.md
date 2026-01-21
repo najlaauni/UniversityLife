@@ -53,7 +53,7 @@ Here are some photos during the industry visit:<br>
 ## ☁️ The Newsletter of The Industry Talk
 <img width="1414" height="2000" alt="1" src="https://github.com/user-attachments/assets/4e4c733a-042a-4f4f-a7ab-14a6a1459e79" />
 <img width="1414" height="2000" alt="2" src="https://github.com/user-attachments/assets/65041edc-4d5b-4847-bd7b-1f7d3363f27c" />
-<img width="1414" height="2000" alt="3" src="https://github.com/user-attachments/assets/1aead20c-b85a-42c7-ba82-f8d59f689096" /> 
-<br>
+<img width="1414" height="2000" alt="3" src="https://github.com/user-attachments/assets/1aead20c-b85a-42c7-ba82-f8d59f689096" /> <br>
+To see the PDF version, you may download this ! <br>
 [📥 Download the Full Newsletter (PDF Version)](https://github.com/user-attachments/files/24770184/Assignment.4.Newsletter.pdf)
 
