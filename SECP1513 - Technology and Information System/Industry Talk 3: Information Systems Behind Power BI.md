@@ -5,7 +5,6 @@
 **Platform:** Webex (Online)  
 **Speaker:** [Qaisara Rohzan](https://www.linkedin.com/in/qaisara-rohzan/?originalSubdomain=my)  
 
-
 ---
 
 ## 📌 Summary About the Talk
