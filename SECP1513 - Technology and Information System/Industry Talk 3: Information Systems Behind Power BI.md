@@ -36,7 +36,7 @@ The speaker's message, that was backed up by Dr. Aryati, did also remind me that
 ---
 
 ## 📷 Photos
-Here are some photos during the industry visit:<br>
+Here are some photos during the industry talk:<br>
 
 ![3d1b3b74-4e6d-4488-b67b-e2f48d4738c5](https://github.com/user-attachments/assets/1ca7b2f5-a507-4325-bff7-5d3e920ab800) <br>
 <img width="1073" height="805" alt="image" src="https://github.com/user-attachments/assets/47cdce11-d401-418c-92d6-ad3e4c344108" /> <br>
