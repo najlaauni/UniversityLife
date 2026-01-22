@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Summary About the Talk
+## 📌 Summary About the Visit
 
 The visit to Johor Corporation (JCORP) was very interesting and it showed how a big company uses the latest technology in real business situations. The meeting was headed by Mr. Budiman Bujang, who presented how JCORP uses Artificial Intelligence (AI), automation, and data analytics to help not only with daily operations but also with making strategic decisions.
 
